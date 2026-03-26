@@ -1,0 +1,1075 @@
+"phenotype","PhecodeString","group","training.case","training.ctrl","internal.case","internal.ctrl","external.case","external.ctrl","MIMIC_png.case","MIMIC_png.ctrl"
+"008","Intestinal infection","Infectious diseases",1440,208529,576,89183,726,76918,78,60040
+"008.5","Bacterial enteritis","Infectious diseases",101,212499,54,90788,49,79661,39,60197
+"008.52","Intestinal infection due to C. difficile","Infectious diseases",60,212607,27,90870,17,79749,702,58937
+"008.6","Viral Enteritis","Infectious diseases",295,212020,104,90638,54,79526,324,59309
+"010","Tuberculosis","Infectious diseases",749,208997,316,89327,324,77498,111,60032
+"031","Diseases due to other mycobacteria","Infectious diseases",51,212585,23,90857,27,79687,18,60248
+"038","Septicemia","Infectious diseases",3379,206454,1445,88229,1207,76878,1730,57691
+"038.1","Gram negative septicemia","Infectious diseases",340,211909,183,90545,139,79415,695,59087
+"038.2","Gram positive septicemia","Infectious diseases",151,212433,59,90797,48,79676,337,59720
+"038.3","Bacteremia","Infectious diseases",617,211636,256,90428,189,79375,712,58738
+"041","Bacterial infection NOS","Infectious diseases",1407,210067,605,89770,482,78499,1394,57549
+"041.1","Staphylococcus infections","Infectious diseases",53,212620,17,90872,21,79741,208,59793
+"041.11","Methicillin sensitive Staphylococcus aureus","Infectious diseases",95,212534,45,90817,41,79701,429,59280
+"041.12","Methicillin resistant Staphylococcus aureus","Infectious diseases",60,212618,20,90862,17,79737,384,59281
+"041.2","Streptococcus infection","Infectious diseases",280,212012,124,90627,102,79412,854,58530
+"041.4","E. coli","Infectious diseases",855,211203,350,90289,314,79106,1235,57809
+"041.8","H. pylori","Infectious diseases",1285,209157,569,89390,256,78179,129,59980
+"041.9","Infection with drug-resistant microorganisms","Infectious diseases",168,212439,68,90792,60,79657,290,59683
+"053","Herpes zoster","Infectious diseases",367,210618,151,90007,168,78319,109,59968
+"053.1","Herpes zoster with nervous system complications","Infectious diseases",292,210688,128,90011,138,78254,46,60142
+"054","Herpes simplex","Infectious diseases",370,211042,170,90160,167,78404,207,59791
+"070","Viral hepatitis","Infectious diseases",359,212084,169,90635,112,79543,37,60216
+"070.1","Viral hepatitis A","Infectious diseases",36,212660,27,90872,17,79751,10,60255
+"070.2","Viral hepatitis B","Infectious diseases",1286,209122,546,89411,404,77880,173,59818
+"070.3","Viral hepatitis C","Infectious diseases",510,211406,225,90326,134,79220,904,58172
+"070.4","Chronic hepatitis","Infectious diseases",1485,202006,677,86335,667,71894,59,60139
+"070.9","Hepatitis NOS","Infectious diseases",2485,206150,1066,88097,850,76413,153,60002
+"071.1","HIV infection, symptomatic","Infectious diseases",148,212328,61,90737,56,79540,212,59755
+"078","Viral warts & HPV","Infectious diseases",163,209745,64,89640,103,77245,26,60211
+"079","Viral infection","Infectious diseases",1834,210314,737,89950,420,79054,898,58649
+"079.1","Varicella infection","Infectious diseases",114,212491,61,90811,40,79691,9,60257
+"079.2","Infectious mononucleosis","Infectious diseases",103,212559,36,90847,40,79721,45,60211
+"079.9","Viremia, NOS","Infectious diseases",151,212451,77,90776,87,79596,212,60033
+"080","Postoperative infection","Infectious diseases",291,211981,135,90609,117,79411,824,58543
+"081","Infection/inflammation of internal prosthetic device; implant; and graft","Infectious diseases",91,212439,41,90806,23,79672,511,59012
+"090","Sexually transmitted infections (not HIV or hepatitis)","Infectious diseases",102,212314,40,90738,56,79536,35,60196
+"090.2","Gonococcal infections","Infectious diseases",21,212641,6,90882,12,79748,6,60270
+"110.1","Dermatophytosis","Infectious diseases",166,210693,71,89957,150,77371,17,60237
+"110.11","Dermatophytosis of nail","Infectious diseases",267,209384,108,89441,188,76079,34,60168
+"110.12","Althete's foot","Infectious diseases",486,206879,218,88382,299,74038,40,60139
+"110.13","Dermatophytosis of the body","Infectious diseases",155,210908,66,90121,130,77787,79,60100
+"110.2","Dermatomycoses","Infectious diseases",43,212185,16,90685,19,79368,28,60213
+"112","Candidiasis","Infectious diseases",712,210266,319,89880,181,78543,919,58492
+"117","Mycoses","Infectious diseases",132,212496,56,90809,34,79693,100,60096
+"117.4","Aspergillosis","Infectious diseases",59,212624,29,90869,18,79748,36,60212
+"132","Infestation (lice, mites)","Infectious diseases",89,211933,51,90554,29,79195,20,60233
+"132.1","Pediculosis and phthirus infestation","Infectious diseases",46,210935,16,90183,24,78712,8,60267
+"136","Other infectious and parasitic diseases","Infectious diseases",142,212481,62,90809,49,79692,346,59621
+"145","Cancer of mouth","Neoplasms",209,212111,78,90674,38,79642,17,60250
+"145.2","Cancer of tongue","Neoplasms",176,212281,53,90730,29,79680,28,60224
+"149.1","Cancer of oropharynx","Neoplasms",83,212519,36,90827,8,79747,9,60263
+"149.2","Cancer of nasopharynx","Neoplasms",145,212121,61,90679,38,79594,5,60274
+"149.4","Cancer of larynx","Neoplasms",65,212513,26,90832,13,79726,41,60202
+"150","Cancer of esophagus","Neoplasms",179,212197,81,90708,21,79692,81,60089
+"151","Cancer of stomach","Neoplasms",439,211644,175,90469,114,79358,92,60069
+"153.2","Colon cancer","Neoplasms",812,210447,359,89926,265,78645,429,59346
+"153.3","Malignant neoplasm of rectum, rectosigmoid junction, and anus","Neoplasms",429,211469,176,90397,140,79161,120,59947
+"155","Cancer of liver and intrahepatic bile duct","Neoplasms",267,212255,102,90732,53,79662,65,60153
+"155.1","Malignant neoplasm of liver, primary","Neoplasms",875,210765,370,90046,203,79079,174,59834
+"157","Pancreatic cancer","Neoplasms",286,212191,120,90684,69,79627,246,59788
+"158","Neoplasm of unspecified nature of digestive system","Neoplasms",491,211902,191,90586,97,79551,35,60196
+"159","Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum","Neoplasms",27,212657,15,90887,9,79758,72,60127
+"159.2","Malignant neoplasm of small intestine, including duodenum","Neoplasms",55,212603,15,90876,17,79739,24,60237
+"159.3","Malignant neoplasm of gallbladder and extrahepatic bile ducts","Neoplasms",162,212381,67,90788,42,79685,79,60114
+"159.4","Malignant neoplasm of retroperitoneum and peritoneum","Neoplasms",30,212634,18,90868,14,79744,12,60247
+"165","Cancer within the respiratory system","Neoplasms",49,212612,17,90875,15,79758,24,60248
+"165.1","Cancer of bronchus; lung","Neoplasms",1623,209409,696,89532,528,78469,778,58847
+"170.1","Bone cancer","Neoplasms",62,212555,16,90862,9,79740,24,60224
+"170.2","Cancer of connective tissue","Neoplasms",124,212440,47,90818,31,79687,29,60195
+"172.11","Melanomas of skin","Neoplasms",43,212609,22,90863,6,79744,35,60165
+"172.2","Other non-epithelial cancer of skin","Neoplasms",85,212497,33,90816,23,79694,572,58978
+"172.21","Basal cell carcinoma","Neoplasms",25,212662,8,90895,9,79763,26,60241
+"172.22","Squamous cell carcinoma","Neoplasms",25,212657,15,90877,9,79769,35,60214
+"174","Breast cancer","Neoplasms",189,212350,93,90744,62,79607,278,59919
+"174.1","Breast cancer [female]","Neoplasms",262,211963,133,90537,101,79435,12,60225
+"174.11","Malignant neoplasm of female breast","Neoplasms",1031,208822,449,89212,375,77445,694,58485
+"180.1","Cervical cancer","Neoplasms",157,212243,84,90692,40,79554,43,60153
+"180.3","Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]","Neoplasms",103,211784,50,90513,32,79316,7,60260
+"182","Malignant neoplasm of uterus","Neoplasms",237,212142,102,90642,75,79503,140,59918
+"184","Cancer of other female genital organs","Neoplasms",144,212481,56,90812,42,79700,24,60247
+"184.11","Malignant neoplasm of ovary","Neoplasms",221,212213,98,90688,86,79527,103,60057
+"184.2","Cancer of other female genital organs, excluding uterus and ovary","Neoplasms",30,212631,15,90883,11,79742,7,60261
+"185","Cancer of prostate","Neoplasms",529,211311,224,90306,293,78910,737,58662
+"189.11","Malignant neoplasm of kidney, except pelvis","Neoplasms",196,212165,75,90683,71,79484,141,59915
+"189.12","Malignant neoplasm of renal pelvis","Neoplasms",89,212476,31,90815,25,79684,13,60249
+"189.2","Cancer of bladder","Neoplasms",112,212462,32,90818,26,79702,8,60262
+"189.21","Malignant neoplasm of bladder","Neoplasms",262,211923,111,90576,75,79420,252,59716
+"189.4","Malignant neoplasm of other urinary organs","Neoplasms",90,212492,34,90826,15,79692,9,60256
+"191","Manlignant and unknown neoplasms of brain and nervous system","Neoplasms",290,211811,108,90546,84,79384,41,60212
+"191.1","Cancer of brain and nervous system","Neoplasms",37,212620,18,90867,20,79725,7,60267
+"191.11","Cancer of brain","Neoplasms",145,212335,71,90757,38,79651,133,60035
+"193","Thyroid cancer","Neoplasms",305,211776,185,90470,219,79044,86,59989
+"194","Cancer of other endocrine glands","Neoplasms",67,212578,33,90841,17,79723,51,60205
+"195","Cancer, suspected or other","Neoplasms",61,212593,27,90863,14,79758,351,59644
+"195.1","Malignant neoplasm, other","Neoplasms",146,212447,62,90792,38,79697,327,59712
+"197","Chemotherapy","Neoplasms",443,210190,196,89773,172,78487,1014,58040
+"198","Secondary malignant neoplasm","Neoplasms",812,210849,351,90156,213,79111,726,59065
+"198.1","Secondary malignancy of lymph nodes","Neoplasms",1057,209861,465,89688,339,78710,517,59109
+"198.2","Secondary malignancy of respiratory organs","Neoplasms",803,211091,330,90232,210,79212,543,59349
+"198.3","Secondary malignant neoplasm of digestive systems","Neoplasms",279,212205,125,90689,67,79616,369,59633
+"198.4","Secondary malignant neoplasm of liver","Neoplasms",659,211460,282,90387,160,79429,575,59364
+"198.5","Secondary malignancy of brain/spine","Neoplasms",247,212176,130,90660,76,79602,348,59692
+"198.6","Secondary malignancy of bone","Neoplasms",599,211460,269,90358,139,79377,488,59415
+"199","Neoplasm of uncertain behavior","Neoplasms",3443,205943,1527,87954,1597,76027,92,60094
+"200","Myeloproliferative disease","Neoplasms",250,212093,103,90619,61,79503,371,59513
+"200.1","Polycythemia vera","Neoplasms",21,212667,8,90887,9,79764,84,60136
+"201","Hodgkin's disease","Neoplasms",28,212645,9,90881,15,79731,78,60102
+"202","Cancer of other lymphoid, histiocytic tissue","Neoplasms",13,212684,5,90905,8,79767,106,60024
+"202.2","Non-Hodgkins lymphoma","Neoplasms",222,212195,89,90715,59,79558,264,59606
+"202.21","Nodular lymphoma","Neoplasms",37,212540,16,90848,24,79677,34,60196
+"202.22","Reticulosarcoma","Neoplasms",126,212438,41,90794,29,79674,29,60216
+"204","Leukemia","Neoplasms",55,212605,14,90867,22,79738,43,60184
+"204.12","Lymphoid leukemia, chronic","Neoplasms",10,212681,9,90890,8,79763,106,60040
+"204.2","Myeloid leukemia","Neoplasms",21,212672,11,90885,6,79760,8,60263
+"204.21","Myeloid leukemia, acute","Neoplasms",76,212569,38,90834,18,79726,72,60092
+"204.4","Multiple myeloma","Neoplasms",64,212535,31,90823,19,79697,127,59965
+"208","Benign neoplasm of colon","Neoplasms",1601,207510,725,88709,402,77080,655,58626
+"209","Neuroendocrine tumors","Neoplasms",32,212668,5,90899,11,79767,21,60236
+"210","Benign neoplasm of lip, oral cavity, and pharynx","Neoplasms",841,209570,335,89624,187,78350,5,60268
+"211","Benign neoplasm of other parts of digestive system","Neoplasms",765,209173,354,89401,292,77677,146,59925
+"212","Benign neoplasm of respiratory and intrathoracic organs","Neoplasms",962,210554,430,89979,293,78880,17,60249
+"213","Benign neoplasm of bone and articular cartilage","Neoplasms",272,211893,130,90578,75,79473,8,60263
+"214","Lipoma","Neoplasms",153,212384,73,90750,43,79650,29,60202
+"214.1","Lipoma of skin and subcutaneous tissue","Neoplasms",284,212091,102,90654,65,79534,18,60251
+"215","Other benign neoplasm of connective and other soft tissue","Neoplasms",963,208037,421,88872,262,77590,14,60249
+"216","Benign neoplasm of skin","Neoplasms",475,207683,202,88752,169,76352,11,60244
+"218.1","Uterine leiomyoma","Neoplasms",1950,206635,867,88273,499,77166,137,59710
+"220","Benign neoplasm of ovary","Neoplasms",861,210868,395,90108,237,78961,18,60219
+"223","Benign neoplasm of kidney and other urinary organs","Neoplasms",231,211873,89,90590,80,79263,8,60254
+"225.1","Benign neoplasm of brain, cranial nerves, meninges","Neoplasms",302,211509,136,90402,99,79096,179,59961
+"225.2","Benign neoplasm of spinal cord, meninges","Neoplasms",41,212586,28,90832,26,79677,6,60268
+"227.1","Benign neoplasm of adrenal gland","Neoplasms",91,212496,45,90825,46,79679,59,60157
+"227.3","Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)","Neoplasms",80,212527,43,90841,29,79675,52,60183
+"228","Hemangioma and lymphangioma, any site","Neoplasms",272,212086,134,90630,109,79466,95,60080
+"240","Simple and unspecified goiter","Endocrine/metabolic",288,210169,163,89800,163,77984,67,60139
+"241","Nontoxic nodular goiter","Endocrine/metabolic",416,210813,211,90114,205,78781,19,60236
+"241.1","Nontoxic uninodular goiter","Endocrine/metabolic",140,212336,59,90737,50,79578,302,59683
+"241.2","Nontoxic multinodular goiter","Endocrine/metabolic",95,212302,47,90732,44,79507,112,60001
+"242","Thyrotoxicosis with or without goiter","Endocrine/metabolic",566,210490,251,89981,243,78509,167,59972
+"242.1","Graves' disease","Endocrine/metabolic",256,211267,101,90289,145,78692,109,60061
+"242.2","Toxic multinodular goiter","Endocrine/metabolic",31,212485,15,90809,17,79685,12,60250
+"242.3","Exophthalmos","Endocrine/metabolic",22,212656,10,90881,5,79761,32,60235
+"244.1","Secondary hypothyroidism","Endocrine/metabolic",47,212403,26,90794,25,79568,238,59713
+"244.2","Acquired hypothyroidism","Endocrine/metabolic",85,212520,30,90832,39,79651,57,60174
+"244.4","Hypothyroidism NOS","Endocrine/metabolic",492,210947,190,90158,211,78405,2875,54223
+"245","Thyroiditis","Endocrine/metabolic",45,212476,23,90814,25,79623,12,60257
+"245.21","Chronic lymphocytic thyroiditis","Endocrine/metabolic",77,212482,37,90807,54,79581,49,60175
+"246","Other disorders of thyroid","Endocrine/metabolic",341,211723,132,90543,141,79200,87,60119
+"246.7","Abnormal results of function study of thyroid","Endocrine/metabolic",27,212668,9,90885,14,79759,49,60197
+"249","Secondary diabetes mellitus","Endocrine/metabolic",962,209267,368,89516,359,77469,124,59995
+"250","Diabetes mellitus","Endocrine/metabolic",456,211437,200,90396,175,78986,46,60225
+"250.1","Type 1 diabetes","Endocrine/metabolic",135,211463,92,90385,75,78971,593,58828
+"250.11","Type 1 diabetes with ketoacidosis","Endocrine/metabolic",36,212619,17,90869,14,79737,181,59930
+"250.12","Type 1 diabetes with renal manifestations","Endocrine/metabolic",31,212451,17,90786,17,79596,99,59950
+"250.2","Type 2 diabetes","Endocrine/metabolic",8501,189495,3777,81013,2298,68063,5301,48421
+"250.21","Type 2 diabetes with ketoacidosis","Endocrine/metabolic",478,211693,215,90463,159,79389,129,60050
+"250.22","Type 2 diabetes with renal manifestations","Endocrine/metabolic",1694,207728,795,88800,561,76826,672,58629
+"250.23","Type 2 diabetes with ophthalmic manifestations","Endocrine/metabolic",503,210583,236,89985,133,78738,348,59311
+"250.24","Type 2 diabetes with neurological manifestations","Endocrine/metabolic",615,209216,236,89423,204,77499,767,58185
+"250.25","Diabetes type 2 with peripheral circulatory disorders","Endocrine/metabolic",344,211539,165,90394,111,78739,150,59896
+"250.41","Impaired fasting glucose","Endocrine/metabolic",336,211407,140,90352,148,78843,37,60204
+"250.42","Other abnormal glucose","Endocrine/metabolic",442,211644,194,90467,225,79003,541,59260
+"250.6","Polyneuropathy in diabetes","Endocrine/metabolic",58,212245,25,90676,27,79359,551,58401
+"250.7","Diabetic retinopathy","Endocrine/metabolic",97,211598,44,90442,28,79162,307,59204
+"251.1","Hypoglycemia","Endocrine/metabolic",634,211255,227,90330,146,79262,234,59881
+"252.1","Hyperparathyroidism","Endocrine/metabolic",114,212356,60,90750,52,79537,187,59768
+"252.2","Hypoparathyroidism","Endocrine/metabolic",17,212644,8,90879,12,79713,19,60237
+"253","Disorders of the pituitary gland and its hypothalamic control","Endocrine/metabolic",28,212662,14,90890,12,79753,16,60246
+"253.1","Pituitary hyperfunction","Endocrine/metabolic",46,212443,16,90809,16,79638,7,60259
+"253.2","Pituitary hypofunction","Endocrine/metabolic",28,212642,9,90887,8,79742,37,60219
+"253.3","Diabetes insipidus","Endocrine/metabolic",63,212632,23,90881,9,79753,58,60195
+"253.7","Other disorders of neurohypophysis","Endocrine/metabolic",65,212603,18,90875,18,79742,532,59423
+"255","Disorders of adrenal glands","Endocrine/metabolic",66,212569,31,90842,37,79716,85,60128
+"255.11","Cushing's syndrome","Endocrine/metabolic",43,212584,23,90856,13,79727,19,60248
+"255.12","Hyperaldosteronism","Endocrine/metabolic",91,212455,42,90807,35,79620,19,60245
+"255.21","Glucocorticoid deficiency","Endocrine/metabolic",115,212532,40,90840,47,79689,174,59916
+"256.4","Polycystic ovaries","Endocrine/metabolic",64,211987,35,90587,27,79414,40,60165
+"259","Other endocrine disorders","Endocrine/metabolic",50,212544,22,90832,46,79563,12,60255
+"260","Protein-calorie malnutrition","Endocrine/metabolic",225,212260,108,90722,83,79536,1341,58043
+"260.1","Cachexia","Endocrine/metabolic",585,211600,251,90427,138,79456,382,59697
+"260.6","Anorexia","Endocrine/metabolic",155,212409,73,90759,50,79634,73,60183
+"261.2","Vitamin B-complex deficiencies","Endocrine/metabolic",248,211266,96,90289,74,78901,396,59428
+"263","Other nutritional deficiency","Endocrine/metabolic",27,212674,9,90892,12,79760,24,60238
+"269","Proteinuria","Endocrine/metabolic",516,210209,226,89854,294,77542,63,60125
+"270.21","Disorders of urea cycle metabolism","Endocrine/metabolic",142,212508,44,90836,33,79721,15,60262
+"270.38","Other specified disorders of plasma protein metabolism","Endocrine/metabolic",867,211381,345,90332,200,79360,201,59934
+"272.1","Hyperlipidemia","Endocrine/metabolic",6251,196838,2641,84172,2305,70634,8596,42583
+"272.11","Hypercholesterolemia","Endocrine/metabolic",2256,203150,926,86912,1216,71565,3989,51501
+"272.12","Hyperglyceridemia","Endocrine/metabolic",378,211436,169,90344,118,78720,115,60031
+"272.13","Mixed hyperlipidemia","Endocrine/metabolic",3585,196483,1550,83971,1478,68620,22,60240
+"274.1","Gout","Endocrine/metabolic",988,207301,424,88601,418,75389,1178,57559
+"274.11","Gouty arthropathy","Endocrine/metabolic",1106,207465,490,88700,311,76476,184,59746
+"275.1","Disorders of iron metabolism","Hematopoietic",12,212682,9,90891,7,79766,60,60145
+"275.3","Disorders of magnesium metabolism","Endocrine/metabolic",120,212506,42,90840,33,79717,472,59272
+"275.51","Hypocalcemia","Endocrine/metabolic",475,211820,192,90581,213,79236,364,59571
+"275.53","Disorders of phosphorus metabolism","Endocrine/metabolic",93,212562,32,90854,29,79737,862,58696
+"275.6","Hypercalcemia","Endocrine/metabolic",108,212523,54,90823,26,79716,321,59625
+"276.1","Electrolyte imbalance","Endocrine/metabolic",303,212031,137,90625,111,79360,125,60041
+"276.11","Hyperosmolality and/or hypernatremia","Endocrine/metabolic",435,212112,174,90653,144,79513,1374,58268
+"276.12","Hyposmolality and/or hyponatremia","Endocrine/metabolic",2072,208688,913,89176,750,77989,2988,54752
+"276.13","Hyperpotassemia","Endocrine/metabolic",1130,210484,495,90003,363,78836,1641,56960
+"276.14","Hypopotassemia","Endocrine/metabolic",2899,207254,1258,88620,873,77635,1733,56887
+"276.41","Acidosis","Endocrine/metabolic",1720,210132,727,89835,474,78944,2915,55505
+"276.42","Alkalosis","Endocrine/metabolic",59,212631,10,90888,10,79764,584,59270
+"276.5","Hypovolemia","Endocrine/metabolic",655,211235,276,90323,291,79168,3306,53014
+"276.6","Fluid overload","Endocrine/metabolic",233,212252,101,90724,91,79590,913,58758
+"277","Other disorders of metabolism","Endocrine/metabolic",104,212516,59,90821,44,79664,67,60161
+"277.4","Disorders of bilirubin excretion","Endocrine/metabolic",210,212410,72,90793,80,79652,89,60138
+"277.5","Other disorders of lipoid metabolism","Endocrine/metabolic",44,212625,22,90865,17,79703,14,60227
+"277.51","Lipoprotein disorders","Endocrine/metabolic",49,212614,10,90876,9,79734,13,60249
+"277.6","Other deficiencies of circulating enzymes","Endocrine/metabolic",36,212646,22,90876,17,79746,6,60272
+"277.7","Dysmetabolic syndrome X","Endocrine/metabolic",136,212482,52,90821,63,79658,31,60199
+"278","Overweight, obesity and other hyperalimentation","Endocrine/metabolic",43,212592,21,90864,22,79693,336,59643
+"278.1","Obesity","Endocrine/metabolic",437,210810,206,90087,226,78125,2398,55221
+"278.11","Morbid obesity","Endocrine/metabolic",182,212173,69,90694,52,79544,1329,57284
+"278.4","Abnormal weight gain","Endocrine/metabolic",26,212450,6,90815,23,79549,29,60218
+"279.1","Immunity deficiency","Endocrine/metabolic",81,212314,42,90738,43,79558,5,60264
+"279.11","Deficiency of humoral immunity","Endocrine/metabolic",31,212365,18,90767,17,79567,89,60056
+"279.2","Autoimmune disease NEC","Endocrine/metabolic",267,210997,101,90227,104,78803,16,60241
+"279.7","Other immunological findings","Endocrine/metabolic",96,212555,38,90838,33,79724,32,60193
+"279.8","Other specified disorders involving the immune mechanism","Endocrine/metabolic",530,209940,205,89808,219,78229,5,60272
+"280.1","Iron deficiency anemias, unspecified or not due to blood loss","Hematopoietic",691,210534,326,90002,279,78531,1044,57631
+"280.2","Iron deficiency anemia secondary to blood loss (chronic)","Hematopoietic",2031,208555,852,89114,585,78088,450,59280
+"281.11","Pernicious anemia","Hematopoietic",65,212534,30,90823,24,79696,30,60186
+"281.12","Other vitamin B12 deficiency anemia","Hematopoietic",93,212395,27,90774,27,79656,67,60096
+"281.13","Folate-deficiency anemia","Hematopoietic",62,212551,36,90828,30,79686,18,60247
+"281.9","Deficiency anemias","Hematopoietic",61,212546,33,90834,32,79669,352,59635
+"282.8","Other hemoglobinopathies","Hematopoietic",253,211970,109,90586,103,79372,99,60082
+"282.9","Other hereditary hemolytic anemias","Hematopoietic",56,212603,27,90863,21,79713,34,60205
+"283.1","Autoimmune hemolytic anemias","Hematopoietic",22,212670,5,90896,9,79752,32,60215
+"284","Aplastic anemia","Hematopoietic",58,212564,29,90830,19,79685,23,60194
+"284.1","Pancytopenia","Hematopoietic",239,212292,105,90697,80,79586,731,58706
+"285","Other anemias","Hematopoietic",3348,204427,1453,87416,1185,75522,4598,50454
+"285.1","Acute posthemorrhagic anemia","Hematopoietic",1429,210795,593,90077,329,79259,2302,55926
+"285.2","Anemia of chronic disease","Hematopoietic",231,211905,87,90581,92,79223,693,58695
+"285.21","Anemia in chronic kidney disease","Hematopoietic",310,211153,139,90241,146,78846,581,58647
+"285.22","Anemia in neoplastic disease","Hematopoietic",161,212115,67,90634,53,79489,467,59303
+"286.4","Acquired coagulation factor deficiency","Hematopoietic",115,212553,58,90816,22,79730,488,59566
+"286.6","Defibrination syndrome","Hematopoietic",182,212498,82,90811,41,79736,168,60071
+"286.7","Other and unspecified coagulation defects","Hematopoietic",373,212078,178,90615,96,79564,661,59269
+"286.81","Primary hypercoagulable state","Hematopoietic",77,212595,31,90849,25,79735,160,59945
+"286.9","Abnormal coagulation profile","Hematopoietic",77,212562,42,90832,26,79719,1159,57980
+"287","Purpura and other hemorrhagic conditions","Hematopoietic",33,212604,6,90870,8,79699,9,60254
+"287.1","Spontaneous ecchymoses","Hematopoietic",41,212567,14,90847,21,79643,34,60211
+"287.2","Allergic purpura","Hematopoietic",76,212321,33,90736,28,79481,6,60265
+"287.3","Thrombocytopenia","Hematopoietic",1055,210318,453,89887,305,78631,2178,56375
+"287.31","Primary thrombocytopenia","Hematopoietic",57,212572,31,90845,27,79684,76,60092
+"287.32","Secondary thrombocytopenia","Hematopoietic",310,212139,113,90685,102,79549,683,59105
+"288","Diseases of white blood cells","Hematopoietic",80,212435,36,90789,36,79541,31,60225
+"288.1","Decreased white blood cell count","Hematopoietic",83,212483,47,90809,44,79615,300,59508
+"288.11","Neutropenia","Hematopoietic",366,211663,159,90420,127,79240,569,59046
+"288.2","Elevated white blood cell count","Hematopoietic",188,212445,70,90791,56,79674,2280,56470
+"288.3","Eosinophilia","Hematopoietic",49,212612,22,90860,23,79728,223,59782
+"289","Other diseases of blood and blood-forming organs","Hematopoietic",70,212408,35,90784,17,79592,83,60122
+"289.4","Lymphadenitis","Hematopoietic",724,209985,311,89770,279,78431,402,59494
+"289.5","Diseases of spleen","Hematopoietic",133,212490,47,90807,38,79706,136,59994
+"289.8","Polycythemia vera, secondary","Hematopoietic",16,212671,5,90893,6,79761,33,60218
+"289.9","Abnormality of red blood cells","Hematopoietic",7,212682,6,90891,14,79742,155,59884
+"290","Delirium dementia and amnestic and other cognitive disorders","Mental disorders",77,212155,27,90705,50,79264,22,60247
+"290.1","Dementias","Mental disorders",1271,209232,556,89375,466,77826,1966,57406
+"290.11","Alzheimer's disease","Mental disorders",392,210401,192,89901,175,78221,462,59537
+"290.12","Dementia with cerebral degenerations","Mental disorders",305,211215,153,90243,129,78810,142,60024
+"290.13","Senile dementia","Mental disorders",439,210583,156,90085,174,78249,192,59955
+"290.16","Vascular dementia","Mental disorders",640,209733,295,89623,296,77798,190,59931
+"290.2","Delirium due to conditions classified elsewhere","Mental disorders",352,211955,140,90603,115,79478,1287,58058
+"290.3","Other persistent mental disorders due to conditions classified elsewhere","Mental disorders",61,212455,27,90806,10,79642,133,59692
+"291.4","Specific nonpsychotic mental disorders due to brain damage","Mental disorders",734,210464,311,89958,177,78955,90,60118
+"291.8","Alteration of consciousness","Mental disorders",634,211481,273,90393,142,79370,856,58805
+"292","Neurological disorders","Mental disorders",28,212675,9,90897,7,79766,248,59980
+"292.1","Aphasia/speech disturbance","Mental disorders",245,212265,99,90705,61,79635,867,58991
+"292.11","Aphasia","Mental disorders",190,212359,75,90769,43,79651,773,59258
+"292.2","Mild cognitive impairment","Mental disorders",163,212103,87,90616,77,79460,174,59978
+"292.3","Memory loss","Mental disorders",37,212628,15,90873,12,79735,202,59902
+"292.4","Altered mental status","Mental disorders",1040,211219,424,90290,168,79445,2577,56433
+"293.1","Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]","Mental disorders",411,210487,177,89964,123,78681,218,59796
+"295.1","Schizophrenia","Mental disorders",366,211624,176,90385,70,79255,417,59380
+"295.2","Paranoid disorders","Mental disorders",59,212547,25,90831,13,79707,124,60017
+"295.3","Psychosis","Mental disorders",125,212329,49,90754,26,79624,411,59454
+"296","Mood disorders","Mental disorders",152,212203,56,90689,49,79559,283,59587
+"296.1","Bipolar","Mental disorders",310,211262,135,90305,93,78907,789,58576
+"296.2","Depression","Mental disorders",340,211248,174,90302,124,78902,3406,52030
+"296.22","Major depressive disorder","Mental disorders",1155,208278,470,89063,367,77285,1990,57182
+"297.2","Suicide or self-inflicted injury","Mental disorders",271,212309,139,90713,43,79693,290,59774
+"300","Anxiety, phobic and dissociative disorders","Mental disorders",175,211358,83,90320,87,78651,33,60187
+"300.1","Anxiety disorder","Mental disorders",1541,204342,673,87269,872,73815,4306,52363
+"300.11","Generalized anxiety disorder","Mental disorders",306,211523,142,90359,226,78830,89,60096
+"300.12","Agorophobia, social phobia, and panic disorder","Mental disorders",257,211768,110,90533,111,79259,233,59769
+"300.13","Phobia","Mental disorders",15,212660,12,90871,11,79732,47,60198
+"300.3","Obsessive-compulsive disorders","Mental disorders",21,212580,11,90851,8,79694,78,60129
+"300.4","Dysthymic disorder","Mental disorders",333,209980,159,89732,180,77531,151,59074
+"300.8","Acute reaction to stress","Mental disorders",23,212630,11,90867,12,79741,40,60188
+"301","Personality disorders","Mental disorders",54,212494,34,90814,13,79652,63,60094
+"301.2","Antisocial/borderline personality disorder","Mental disorders",37,212552,18,90855,11,79722,100,59998
+"303.3","Psychogenic disorder","Mental disorders",31,212543,12,90839,23,79632,28,60212
+"303.4","Somatoform disorder","Mental disorders",145,212397,61,90774,44,79655,45,60157
+"304","Adjustment reaction","Mental disorders",444,210834,222,90094,165,78655,215,59780
+"306.9","Tension headache","Mental disorders",151,211394,81,90330,94,78754,62,60125
+"313.1","Attention deficit hyperactivity disorder","Mental disorders",17,212414,8,90810,6,79697,322,59685
+"313.2","Tics and stuttering","Mental disorders",26,212588,11,90850,6,79725,19,60252
+"315","Develomental delays and disorders","Mental disorders",62,212552,16,90855,15,79727,461,59532
+"315.3","Mental retardation","Mental disorders",68,212549,30,90825,23,79711,104,60003
+"316","Substance addiction and disorders","Mental disorders",206,212206,112,90653,53,79583,1752,56970
+"317","Alcohol-related disorders","Mental disorders",433,211633,185,90444,101,79457,1307,57618
+"317.1","Alcoholism","Mental disorders",471,211458,179,90382,98,79405,2107,56313
+"317.11","Alcoholic liver damage","Mental disorders",501,211482,194,90401,92,79363,671,59003
+"318","Tobacco use disorder","Mental disorders",266,212032,120,90611,98,79381,9522,43072
+"320","Meningitis","Neurological",191,212371,79,90761,64,79643,180,59985
+"323","Encephalitis","Neurological",72,212584,24,90850,16,79729,46,60212
+"323.8","Encephalitis, non-infectious","Neurological",92,212575,47,90836,22,79742,61,60191
+"324","Other CNS infection and poliomyelitis","Neurological",155,212413,55,90775,49,79666,218,59900
+"327","Sleep disorders","Neurological",976,205132,400,87709,465,74105,41,60189
+"327.3","Sleep apnea","Neurological",713,209507,320,89553,318,77758,236,59659
+"327.32","Obstructive sleep apnea","Neurological",509,211793,202,90554,181,79311,1781,56022
+"327.4","Insomnia","Neurological",1830,204660,798,87378,801,74065,1227,57860
+"327.5","Parasomnia","Neurological",19,212641,9,90881,5,79735,21,60240
+"327.6","Circadian rhythm sleep disorder","Neurological",51,212434,25,90785,28,79577,15,60263
+"327.71","Restless legs syndrome","Neurological",36,212538,13,90829,20,79664,216,59757
+"331","Other cerebral degenerations","Neurological",231,211425,118,90338,91,79037,29,60238
+"331.1","Hydrocephalus","Neurological",440,211426,178,90377,127,79030,347,59805
+"331.9","Cerebral degeneration, unspecified","Neurological",66,212479,24,90806,26,79651,46,60208
+"332","Parkinson's disease","Neurological",418,211163,188,90269,174,78862,364,59575
+"333","Extrapyramidal disease and abnormal movement disorders","Neurological",48,212278,34,90713,25,79441,42,60202
+"333.1","Essential tremor","Neurological",187,211608,82,90431,76,78980,161,59920
+"333.2","Myoclonus","Neurological",66,212409,32,90784,29,79558,76,60140
+"333.3","Tics and choreas","Neurological",19,212677,6,90891,5,79765,8,60267
+"333.4","Torsion dystonia","Neurological",47,212416,23,90780,24,79565,51,60165
+"333.8","Other degenerative diseases of the basal ganglia","Neurological",23,212526,12,90823,11,79682,37,60209
+"334","Degenerative disease of the spinal cord","Neurological",198,212272,90,90689,47,79578,184,59966
+"334.1","Spinocerebellar disease","Neurological",33,212617,18,90861,16,79715,16,60235
+"334.2","Anterior horn cell disease","Neurological",19,212665,12,90885,5,79761,10,60266
+"335","Multiple sclerosis","Neurological",52,212594,20,90865,18,79725,182,59884
+"337","Disorders of the autonomic nervous system","Neurological",268,211877,119,90554,100,79403,94,60051
+"338.1","Acute pain","Neurological",1112,210703,422,90088,356,79034,512,58835
+"338.2","Chronic pain","Neurological",15,212661,11,90881,6,79756,1730,56320
+"339","Other headache syndromes","Neurological",3387,198995,1418,85113,1574,71508,1951,56108
+"340","Migraine","Neurological",599,208767,294,89217,267,77517,870,58159
+"340.1","Migrain with aura","Neurological",160,211477,83,90368,95,78966,69,60152
+"341","Other demyelinating diseases of central nervous system","Neurological",40,212644,12,90888,10,79760,27,60229
+"342","Hemiplegia","Neurological",957,210734,378,90087,216,79040,880,59149
+"344","Other paralytic syndromes","Neurological",369,212036,151,90611,87,79546,262,59817
+"345","Epilepsy, recurrent seizures, convulsions","Neurological",419,211739,193,90480,112,79370,950,58336
+"345.1","Epilepsy","Neurological",688,211211,306,90290,171,79196,501,59414
+"345.11","Generalized convulsive epilepsy","Neurological",219,212131,85,90655,59,79481,145,59977
+"345.12","Partial epilepsy","Neurological",246,212003,128,90612,85,79425,179,59847
+"345.3","Convulsions","Neurological",456,211930,192,90575,104,79548,1010,58646
+"346.2","Nonspecific abnormal results of function study of brain and central nervous system","Neurological",13,212561,9,90832,9,79693,14,60254
+"348","Other conditions of brain","Neurological",182,212498,69,90827,23,79732,269,59975
+"348.2","Cerebral edema and compression of brain","Neurological",236,212358,96,90756,45,79682,1132,58744
+"348.7","Coma","Neurological",654,211765,264,90517,143,79505,155,60113
+"348.8","Encephalopathy, not elsewhere classified","Neurological",675,210961,284,90198,159,78983,1583,57829
+"348.9","Other conditions of brain, NOS","Neurological",181,212430,61,90809,42,79709,359,59726
+"349","Other and unspecified disorders of the nervous system","Neurological",275,211244,130,90296,128,78780,1499,58076
+"350.1","Abnormal involuntary movements","Neurological",203,211907,83,90566,95,79114,324,59649
+"350.2","Abnormality of gait","Neurological",163,211225,77,90289,109,78800,718,58832
+"350.3","Lack of coordination","Neurological",65,212472,32,90815,22,79661,352,59666
+"350.6","Disturbances of sensation of smell and taste","Neurological",40,212560,14,90859,8,79727,22,60250
+"351","Other peripheral nerve disorders","Neurological",455,209258,198,89387,145,77676,420,59085
+"352","Disorders of other cranial nerves","Neurological",35,212604,12,90869,14,79725,23,60241
+"352.1","Trigeminal nerve disorders [CN5]","Neurological",93,211989,35,90597,31,79351,54,60168
+"352.2","Facial nerve disorders [CN7]","Neurological",266,211482,115,90370,86,79137,136,59990
+"353","Nerve root and plexus disorders","Neurological",23,212369,8,90768,9,79465,10,60245
+"353.1","Nerve plexus lesions","Neurological",69,212113,31,90663,29,79326,26,60229
+"355","Complex regional/central pain syndrome","Neurological",24,212589,17,90837,6,79718,29,60210
+"356","Hereditary and idiopathic peripheral neuropathy","Neurological",75,212322,27,90740,37,79420,398,59098
+"357","Inflammatory and toxic neuropathy","Neurological",358,211340,138,90315,111,78994,345,59743
+"358","Myoneural disorders","Neurological",21,212670,6,90889,10,79758,8,60268
+"358.1","Myasthenia gravis","Neurological",100,212407,27,90810,35,79623,57,60166
+"359.1","Muscular dystrophies","Neurological",61,212611,20,90879,11,79759,19,60239
+"359.2","Myopathy","Neurological",85,212376,47,90744,39,79556,95,60091
+"361","Retinal detachments and defects","Sense organs",268,211957,119,90591,21,79561,13,60245
+"362.29","Macular degeneration (senile) of retina NOS","Sense organs",176,211003,75,90204,59,78702,254,59786
+"362.3","Other nondiabetic retinopathy","Sense organs",40,212595,13,90865,12,79722,31,60194
+"362.4","Retinal vascular changes and abnomalities","Sense organs",112,212260,52,90706,34,79566,43,60185
+"362.8","Retinal hemorrhage/ischemia","Sense organs",28,212590,6,90860,8,79735,15,60243
+"364","Corneal opacity and other disorders of cornea","Sense organs",42,212558,15,90826,5,79742,5,60273
+"364.9","Cornea replaced by transplant","Sense organs",58,212605,19,90855,9,79749,18,60240
+"365","Glaucoma","Sense organs",1091,208629,436,89189,181,78103,792,58561
+"365.1","Open-angle glaucoma","Sense organs",47,212044,27,90661,13,79344,54,60196
+"365.2","Primary angle-closure glaucoma","Sense organs",115,212324,38,90742,12,79600,14,60251
+"366","Cataract","Sense organs",679,208810,294,89263,148,77604,392,59432
+"366.2","Senile cataract","Sense organs",1664,201228,690,86025,428,72256,18,60252
+"367.9","Blindness and low vision","Sense organs",60,212602,24,90864,17,79749,402,59431
+"368","Visual disturbances","Sense organs",18,212674,10,90889,6,79758,307,59656
+"368.2","Diplopia and disorders of binocular vision","Sense organs",123,212429,43,90802,45,79648,191,59928
+"368.4","Visual field defects","Sense organs",72,212459,38,90805,21,79684,189,59956
+"368.9","Subjective visual disturbances","Sense organs",1469,200040,648,85470,653,70157,67,60161
+"369","Infection of the eye","Sense organs",126,212245,58,90723,26,79564,5,60254
+"369.2","Eye infection, viral","Sense organs",89,212348,49,90739,28,79592,28,60201
+"369.5","Conjunctivitis, infectious","Sense organs",450,207530,175,88744,205,76159,153,59929
+"370.1","Corneal ulcer","Sense organs",40,212424,14,90801,5,79673,5,60267
+"370.3","Keratoconjunctivitis","Sense organs",23,212555,10,90842,9,79702,7,60255
+"371","Inflammation of the eye","Sense organs",51,212625,25,90867,7,79755,13,60259
+"371.1","Uveitis, noninfectious or NOS","Sense organs",126,212226,63,90691,35,79543,25,60206
+"371.3","Inflammation of eyelids","Sense organs",159,210165,69,89867,150,77242,21,60201
+"372","Disorders of conjunctiva","Sense organs",236,210677,92,90045,78,78441,91,60103
+"374","Other disorders of eyelids","Sense organs",58,212435,29,90784,26,79620,11,60255
+"374.3","Ptosis of eyelid","Sense organs",107,212304,37,90747,33,79583,120,60100
+"375.1","Dry eyes","Sense organs",1081,203670,440,87120,318,74406,51,60174
+"377","Disorders of optic nerve and visual pathways","Sense organs",39,212616,20,90871,10,79745,18,60241
+"377.3","Optic neuritis/neuropathy","Sense organs",81,212480,42,90819,17,79720,43,60192
+"378","Strabismus and other disorders of binocular eye movements","Sense organs",51,212622,14,90886,10,79757,47,60217
+"378.1","Strabismus (not specified as paralytic)","Sense organs",102,212399,52,90755,16,79691,24,60231
+"378.5","Paralytic strabismus","Sense organs",119,212448,52,90791,25,79689,107,60113
+"379","Other disorders of eye","Sense organs",85,211533,43,90421,41,78919,20,60224
+"379.2","Disorders of vitreous body","Sense organs",885,207031,406,88512,163,76057,38,60180
+"379.9","Pain, swelling or discharge of eye","Sense organs",45,212576,17,90855,7,79737,56,60114
+"380.1","Otitis externa","Sense organs",300,209498,109,89567,141,76961,41,60154
+"380.4","Impacted cerumen","Sense organs",137,210998,56,90166,82,78318,39,60181
+"381.1","Otitis media","Sense organs",172,211563,57,90428,67,79139,5,60268
+"381.11","Suppurative and unspecified otitis media","Sense organs",406,211219,177,90276,93,79120,60,60120
+"381.3","Mastoiditis & related conditions","Sense organs",58,212623,31,90856,11,79754,11,60260
+"386.1","Meniere's disease","Sense organs",170,211392,79,90362,97,78892,37,60204
+"386.2","Peripheral or central vertigo","Sense organs",1368,204785,584,87526,497,75329,209,59757
+"386.9","Dizziness and giddiness (Light-headedness and vertigo)","Sense organs",7314,191051,3041,81861,2746,68350,1641,57035
+"389","Hearing loss","Sense organs",593,211047,264,90232,97,79120,511,59347
+"389.1","Sensorineural hearing loss","Sense organs",818,206298,387,88199,281,76025,85,60134
+"389.2","Conductive hearing loss","Sense organs",227,211943,110,90587,39,79537,11,60261
+"389.4","Tinnitus","Sense organs",566,208370,234,89049,171,77190,49,60171
+"394","Rheumatic disease of the heart valves","Circulatory system",470,211950,227,90554,139,79491,107,60140
+"394.1","Mitral valve stenosis and aortic valve stenosis","Circulatory system",212,212311,89,90731,71,79614,293,59693
+"394.2","Mitral valve disease","Circulatory system",143,212441,60,90806,55,79648,63,60176
+"394.3","Aortic valve disease","Circulatory system",74,212601,17,90867,19,79745,8,60263
+"394.4","Acute rheumatic heart disease","Circulatory system",183,212301,72,90745,29,79632,22,60209
+"394.7","Disease of tricuspid valve","Circulatory system",236,212188,89,90703,93,79514,396,59577
+"395.1","Nonrheumatic mitral valve disorders","Circulatory system",1625,207904,697,88932,859,76755,945,58275
+"395.2","Nonrheumatic aortic valve disorders","Circulatory system",525,211347,225,90325,209,78880,858,58478
+"395.3","Nonrheumatic tricuspid valve disorders","Circulatory system",607,210824,264,90112,450,78236,50,60144
+"395.4","Nonrheumatic pulmonary valve disorders","Circulatory system",93,212510,29,90841,47,79667,6,60266
+"395.6","Heart valve replaced","Circulatory system",89,212500,36,90833,31,79675,499,59300
+"396","Abnormal heart sounds","Circulatory system",157,212386,64,90778,46,79693,121,60064
+"401.1","Essential hypertension","Circulatory system",11931,184870,5078,79004,3324,66097,13212,32537
+"401.2","Hypertensive heart and/or renal disease","Circulatory system",880,210765,383,90094,339,78901,304,59780
+"401.21","Hypertensive heart disease","Circulatory system",12254,178915,5238,76494,4630,59916,240,59913
+"401.22","Hypertensive chronic kidney disease","Circulatory system",603,210860,269,90135,210,78857,2993,53281
+"401.3","Other hypertensive complications","Circulatory system",528,211574,242,90382,212,79129,102,60004
+"411.1","Unstable angina (intermediate coronary syndrome)","Circulatory system",381,211800,133,90550,134,79316,565,59078
+"411.2","Myocardial infarction","Circulatory system",1794,209501,763,89512,485,78477,2949,54716
+"411.3","Angina pectoris","Circulatory system",4394,199611,1918,85304,1951,71160,343,59230
+"411.4","Coronary atherosclerosis","Circulatory system",5571,201409,2376,86049,1946,74436,5096,49532
+"411.8","Other chronic ischemic heart disease, unspecified","Circulatory system",686,210597,261,90070,259,78448,429,59356
+"411.9","Other acute and subacute forms of ischemic heart disease","Circulatory system",261,212314,124,90717,61,79633,611,59337
+"414","Other forms of chronic heart disease","Circulatory system",290,212244,136,90685,74,79616,193,59837
+"415.1","Acute pulmonary heart disease","Circulatory system",64,212624,23,90872,23,79747,11,60268
+"415.11","Pulmonary embolism and infarction, acute","Circulatory system",333,212053,120,90642,128,79362,766,58950
+"415.2","Chronic pulmonary heart disease","Circulatory system",331,212110,158,90629,133,79418,1337,57586
+"415.21","Primary pulmonary hypertension","Circulatory system",80,212543,36,90843,31,79701,21,60175
+"416","Cardiomegaly","Circulatory system",243,212154,97,90704,136,79360,110,60077
+"418","Nonspecific chest pain","Circulatory system",14447,183671,6208,78628,6535,64605,8485,46531
+"420.1","Myocarditis","Circulatory system",95,212553,39,90859,26,79722,50,60206
+"420.2","Pericarditis","Circulatory system",240,212288,80,90753,67,79639,489,59507
+"420.21","Acute pericarditis","Circulatory system",62,212593,30,90863,23,79712,191,59983
+"420.22","Chronic pericarditis","Circulatory system",43,212637,9,90884,13,79753,83,60133
+"420.3","Endocarditis","Circulatory system",181,212358,86,90756,51,79660,192,59966
+"425.1","Primary/intrinsic cardiomyopathies","Circulatory system",230,212250,100,90735,49,79636,676,58658
+"425.11","Hypertrophic obstructive cardiomyopathy","Circulatory system",25,212626,8,90871,8,79725,32,60178
+"425.2","Secondary/extrinsic cardiomyopathies","Circulatory system",40,212570,27,90848,25,79686,90,60053
+"426.2","Atrioventricular [AV] block","Circulatory system",49,212616,14,90869,21,79735,37,60221
+"426.21","First degree AV block","Circulatory system",30,212614,8,90872,12,79748,156,60001
+"426.23","Second degree AV block","Circulatory system",54,212625,15,90878,20,79737,172,59978
+"426.24","Atrioventricular block, complete","Circulatory system",135,212460,49,90806,47,79631,302,59811
+"426.31","Right bundle branch block","Circulatory system",56,212594,20,90859,22,79701,325,59725
+"426.32","Left bundle branch block","Circulatory system",29,212650,13,90885,11,79749,392,59582
+"426.7","Abnormal electrocardiogram [ECG] [EKG]","Circulatory system",173,212292,63,90743,119,79446,528,59289
+"426.91","Cardiac pacemaker in situ","Circulatory system",221,212138,105,90665,88,79430,726,58718
+"427.1","Paroxysmal tachycardia, unspecified","Circulatory system",215,212069,93,90657,88,79480,13,60253
+"427.11","Paroxysmal supraventricular tachycardia","Circulatory system",365,211953,165,90591,105,79438,384,59727
+"427.12","Paroxysmal ventricular tachycardia","Circulatory system",227,212363,77,90785,63,79622,701,59067
+"427.21","Atrial fibrillation","Circulatory system",2154,208277,940,89027,735,77490,4803,51603
+"427.22","Atrial flutter","Circulatory system",395,212025,175,90584,146,79445,720,58858
+"427.3","Other specified cardiac dysrhythmias","Circulatory system",405,212003,157,90603,126,79474,2105,56119
+"427.41","Ventricular fibrillation and flutter","Circulatory system",110,212567,43,90853,18,79736,174,60033
+"427.42","Cardiac arrest","Circulatory system",769,211835,320,90552,136,79587,741,59342
+"427.5","Arrhythmia (cardiac) NOS","Circulatory system",2053,206167,871,88177,1208,75114,40,60198
+"427.6","Premature beats","Circulatory system",214,212241,69,90725,61,79574,128,60035
+"427.61","Supraventricular premature beats","Circulatory system",67,212556,28,90839,26,79707,39,60214
+"427.7","Tachycardia NOS","Circulatory system",378,211946,154,90592,152,79397,1519,57817
+"427.8","Sinoatrial node dysfunction (Bradycardia)","Circulatory system",221,212162,99,90676,93,79443,268,59679
+"427.9","Palpitations","Circulatory system",2948,205774,1270,88020,1366,76013,969,58718
+"428.1","Congestive heart failure (CHF) NOS","Circulatory system",2471,208055,1069,88918,898,77435,3419,52948
+"428.2","Heart failure NOS","Circulatory system",310,211905,134,90575,116,79383,86,60137
+"428.3","Heart failure with reduced EF [Systolic or combined heart failure]","Circulatory system",955,210944,397,90162,357,78919,1882,56554
+"428.4","Heart failure with preserved EF [Diastolic heart failure]","Circulatory system",158,212430,60,90796,60,79621,2000,56041
+"429.1","Heart transplant/surgery","Circulatory system",65,212540,18,90857,15,79727,66,60151
+"430","Intracranial hemorrhage","Circulatory system",598,211882,231,90576,121,79537,183,60064
+"430.1","Subarachnoid hemorrhage","Circulatory system",517,211946,189,90594,88,79549,327,59879
+"430.2","Intracerebral hemorrhage","Circulatory system",1572,210245,626,89910,285,79053,807,59272
+"430.3","Subdural hemorrhage","Circulatory system",401,211965,171,90608,137,79453,299,59870
+"433","Cerebrovascular disease","Circulatory system",285,212215,134,90684,59,79600,193,59984
+"433.1","Occlusion and stenosis of precerebral arteries","Circulatory system",541,211310,246,90280,159,79023,508,59229
+"433.11","Occlusion of cerebral arteries, with cerebral infarction","Circulatory system",992,210865,407,90143,238,79122,200,60000
+"433.12","Cerebral atherosclerosis","Circulatory system",128,212291,70,90706,56,79460,247,59859
+"433.2","Occlusion of cerebral arteries","Circulatory system",1855,206485,802,88293,554,76359,23,60224
+"433.21","Cerebral artery occlusion, with cerebral infarction","Circulatory system",2966,207171,1214,88576,691,77814,1442,58193
+"433.3","Cerebral ischemia","Circulatory system",239,212234,98,90686,57,79611,22,60241
+"433.31","Transient cerebral ischemia","Circulatory system",1688,207343,682,88674,541,76831,2045,56376
+"433.5","Cerebral aneurysm","Circulatory system",173,212422,63,90793,34,79690,138,60017
+"433.8","Late effects of cerebrovascular disease","Circulatory system",1808,209007,796,89321,523,78149,852,58648
+"440","Atherosclerosis","Circulatory system",196,211904,76,90544,71,79228,62,60120
+"440.2","Atherosclerosis of the extremities","Circulatory system",347,211731,154,90477,80,79129,273,59414
+"440.21","Atherosclerosis of native arteries of the extremities with ulceration or gangrene","Circulatory system",112,212485,56,90816,20,79712,159,59700
+"440.22","Atherosclerosis of native arteries of the extremities with intermittent claudication","Circulatory system",93,212297,40,90725,43,79418,69,59874
+"440.9","Atherosclerosis of aorta","Circulatory system",180,212395,80,90771,40,79659,113,60035
+"441","Vascular insufficiency of intestine","Circulatory system",58,212595,36,90859,22,79735,130,60037
+"441.1","Acute vascular insufficiency of intestine","Circulatory system",77,212600,26,90867,21,79744,186,59953
+"442.1","Aortic aneurysm","Circulatory system",333,212106,171,90600,89,79546,286,59798
+"442.11","Abdominal aortic aneurysm","Circulatory system",131,212420,66,90786,38,79648,331,59597
+"442.2","Aneurysm of iliac artery","Circulatory system",17,212682,12,90894,6,79773,39,60197
+"442.4","Arterial dissection","Circulatory system",39,212656,8,90894,7,79767,126,60090
+"442.8","Aneurysm of other specified artery","Circulatory system",48,212617,30,90847,19,79719,93,60108
+"443.1","Raynaud's syndrome","Circulatory system",75,211870,33,90554,37,79131,112,60031
+"443.8","Other specified peripheral vascular diseases","Circulatory system",91,212518,38,90820,21,79713,22,60238
+"443.9","Peripheral vascular disease, unspecified","Circulatory system",313,210865,138,90154,114,78609,854,58266
+"444","Arterial embolism and thrombosis","Circulatory system",91,212402,37,90789,37,79646,167,59986
+"444.1","Arterial embolism and thrombosis of lower extremity artery","Circulatory system",344,211891,157,90519,90,79468,124,60035
+"444.5","Atheroembolism","Circulatory system",22,212649,7,90881,7,79749,12,60258
+"446.5","Giant cell arteritis","Circulatory system",86,212141,36,90686,54,79358,60,60149
+"446.9","Arteritis NOS","Circulatory system",42,212611,18,90868,16,79732,41,60187
+"447","Other disorders of arteries and arterioles","Circulatory system",145,212409,62,90788,43,79670,96,60077
+"447.1","Stricture of artery","Circulatory system",36,212632,17,90876,8,79762,72,60138
+"450","Noninfectious disorders of lymphatic channels","Circulatory system",92,212455,28,90810,32,79644,128,59966
+"451","Phlebitis and thrombophlebitis","Circulatory system",94,212471,38,90814,24,79676,189,59859
+"451.2","Phlebitis and thrombophlebitis of lower extremities","Circulatory system",264,211731,111,90503,152,78891,29,60207
+"452","Other venous embolism and thrombosis","Circulatory system",505,210835,190,90130,214,78412,1468,57048
+"452.2","Deep vein thrombosis [DVT]","Circulatory system",419,211637,162,90457,158,79140,830,58671
+"454","Varicose veins","Circulatory system",251,211774,128,90488,70,79395,95,60058
+"454.1","Varicose veins of lower extremity","Circulatory system",205,211939,90,90581,56,79325,36,60185
+"454.11","Varicose veins of lower extremity, symptomtic","Circulatory system",409,211685,148,90490,109,79343,18,60234
+"455","Hemorrhoids","Circulatory system",2464,197730,1044,84581,864,70909,428,59001
+"456","Chronic venous insufficiency [CVI]","Circulatory system",96,212425,57,90776,48,79616,421,59145
+"458.1","Orthostatic hypotension","Circulatory system",286,211824,119,90554,107,79396,772,58555
+"458.2","Iatrogenic hypotension","Circulatory system",31,212647,15,90882,17,79746,1014,58324
+"458.9","Hypotension NOS","Circulatory system",504,211625,182,90484,171,79270,2178,56673
+"459","Other disorders of circulatory system","Circulatory system",51,212619,22,90869,18,79739,84,60104
+"459.1","Hemorrhage NOS","Circulatory system",81,212486,27,90843,28,79693,59,60177
+"459.7","Blood vessel replaced","Circulatory system",31,212661,17,90880,10,79761,41,60219
+"459.9","Circulatory disease NEC","Circulatory system",315,212110,120,90648,83,79564,273,59798
+"464","Acute sinusitis","Respiratory",746,208983,345,89340,472,76999,104,60061
+"465","Acute upper respiratory infections of multiple or unspecified sites","Respiratory",6373,187376,2649,80347,4886,60014,1105,58316
+"465.2","Acute pharyngitis","Respiratory",920,210191,394,89839,673,77521,348,59586
+"465.4","Acute laryngitis and tracheitis","Respiratory",15,212499,7,90805,20,79496,36,60208
+"470","Septal Deviations/Turbinate Hypertrophy","Respiratory",976,209543,406,89639,243,78407,18,60253
+"471","Nasal polyps","Respiratory",319,211689,143,90501,94,79382,9,60258
+"472","Chronic pharyngitis and nasopharyngitis","Respiratory",1388,206438,600,88348,401,76407,34,60212
+"473","Diseases of the larynx and vocal cords","Respiratory",477,210562,182,90064,118,78619,117,60063
+"473.3","Paralysis/spasm of vocal cords or larynx","Respiratory",139,212326,71,90741,39,79621,105,60114
+"473.4","Voice disturbance","Respiratory",270,211840,119,90552,90,79388,111,60112
+"474","Acute and chronic tonsillitis","Respiratory",206,212404,95,90776,42,79704,9,60240
+"474.1","Acute tonsillitis","Respiratory",1881,207483,787,88763,1196,76033,12,60238
+"474.2","Chronic tonsillitis and adenoiditis","Respiratory",214,212116,83,90692,45,79537,5,60269
+"475","Chronic sinusitis","Respiratory",674,209997,312,89770,187,78531,237,59754
+"475.9","Postnasal drip","Respiratory",36,212585,21,90842,33,79666,25,60232
+"476","Allergic rhinitis","Respiratory",3972,195759,1644,83731,2132,68619,226,59805
+"477","Epistaxis or throat hemorrhage","Respiratory",421,210553,171,89966,128,78534,267,59641
+"478","Throat pain","Respiratory",789,210017,348,89780,443,77567,67,60137
+"479","Other upper respiratory disease","Respiratory",776,210105,303,89819,334,78111,444,59453
+"480","Pneumonia","Respiratory",15799,183386,6613,78630,4545,68099,4520,52792
+"480.1","Bacterial pneumonia","Respiratory",1591,210137,662,89818,666,78358,740,59026
+"480.11","Pneumococcal pneumonia","Respiratory",204,212388,104,90758,60,79661,59,60189
+"480.12","Pseudomonal pneumonia","Respiratory",126,212487,41,90822,51,79657,82,60147
+"480.13","MRSA pneumonia","Respiratory",66,212601,37,90857,24,79733,110,60127
+"480.2","Viral pneumonia","Respiratory",3707,208167,1475,89092,717,78698,57,60153
+"480.3","Pneumonia due to fungus (mycoses)","Respiratory",149,212489,53,90821,43,79699,82,60124
+"480.5","Bronchopneumonia and lung abscess","Respiratory",3371,206216,1398,88161,1992,75327,71,60158
+"481","Influenza","Respiratory",7764,198218,3345,84749,4723,70924,704,59206
+"483","Acute bronchitis and bronchiolitis","Respiratory",3946,199655,1698,85482,2878,68027,296,59643
+"495","Asthma","Respiratory",2689,206332,1072,88246,1563,75226,2109,55222
+"495.1","Chronic obstructive asthma","Respiratory",240,211782,107,90512,129,79135,339,59322
+"495.11","Chronic obstructive asthma with exacerbation","Respiratory",163,212120,82,90671,84,79387,137,59837
+"495.2","Asthma with exacerbation","Respiratory",774,210877,336,90121,470,78258,756,58903
+"496","Chronic airway obstruction","Respiratory",2074,207646,861,88813,1020,76601,2157,56154
+"496.1","Emphysema","Respiratory",226,212167,85,90712,61,79528,388,59510
+"496.2","Chronic bronchitis","Respiratory",2397,206676,1006,88318,1651,74638,24,60208
+"496.21","Obstructive chronic bronchitis","Respiratory",1106,209768,473,89659,581,77620,781,58731
+"496.3","Bronchiectasis","Respiratory",711,210962,293,90169,326,78630,132,59945
+"497","Bronchitis","Respiratory",2927,206170,1215,88145,1958,74502,238,59844
+"500","Lung disease due to external agents","Respiratory",132,212439,57,90792,56,79641,72,60178
+"500.2","Pneumoconiosis","Respiratory",154,212374,42,90792,21,79734,42,60203
+"501","Pneumonitis due to inhalation of food or vomitus","Respiratory",884,211404,393,90325,216,79358,1388,58283
+"502","Postinflammatory pulmonary fibrosis","Respiratory",435,211832,184,90556,208,79240,233,59795
+"503","Pulmonary congestion and hypostasis","Respiratory",187,212348,87,90758,54,79643,428,59643
+"504","Other alveolar and parietoalveolar pneumonopathy","Respiratory",104,212539,52,90830,43,79702,57,60174
+"504.1","Idiopathic fibrosing alveolitis","Respiratory",172,212362,62,90774,89,79541,68,60176
+"505","Other pulmonary inflamation or edema","Respiratory",741,211464,337,90359,247,79329,413,59620
+"506","Empyema and pneumothorax","Respiratory",946,211102,397,90267,256,79265,607,59411
+"507","Pleurisy; pleural effusion","Respiratory",2459,208599,1010,89217,829,78093,1867,57312
+"508","Pulmonary collapse; interstitial and compensatory emphysema","Respiratory",405,212135,151,90689,89,79599,1156,58221
+"509.1","Respiratory failure","Respiratory",4797,206353,2018,88210,1291,77589,3229,56075
+"509.2","Respiratory insufficiency","Respiratory",197,212479,98,90792,44,79715,222,59936
+"509.3","Pulmonary insufficiency or respiratory failure following trauma and surgery","Respiratory",49,212638,12,90892,5,79768,496,59603
+"509.5","Respiratory arrest","Respiratory",31,212671,15,90890,13,79763,26,60242
+"509.8","Dependence on respirator [Ventilator] or supplemental oxygen","Respiratory",638,211922,252,90588,181,79401,717,59139
+"510","Other diseases of lung","Respiratory",386,212023,182,90598,140,79465,251,59264
+"512.1","Wheezing","Respiratory",35,212655,20,90882,32,79699,141,60051
+"512.2","Painful respiration","Respiratory",1149,210864,452,90187,658,78694,413,59613
+"512.7","Shortness of breath","Respiratory",4662,203408,1915,86992,1947,75146,1546,57663
+"512.8","Cough","Respiratory",3642,203045,1535,86777,2050,73297,1849,57323
+"512.9","Other dyspnea","Respiratory",2889,207386,1185,88709,858,77763,2132,56782
+"513.3","Hypoventilation","Respiratory",39,212650,11,90887,15,79747,131,60050
+"513.31","Apnea","Respiratory",16,212668,6,90892,10,79754,56,60188
+"513.4","Hyperventilation","Respiratory",924,210757,377,90090,421,78866,151,60069
+"513.8","Disorders of diaphragm","Respiratory",128,212392,46,90771,43,79589,128,60080
+"514","Abnormal findings examination of lungs","Respiratory",592,211659,211,90514,268,79294,405,59639
+"514.2","Solitary pulmonary nodule","Respiratory",443,211941,207,90555,166,79439,734,59081
+"516.1","Hemoptysis","Respiratory",897,210699,402,90042,445,78512,321,59708
+"519","Other diseases of respiratory system, not elsewhere classified","Respiratory",1650,208746,742,89119,1140,76610,57,60194
+"519.1","Tracheostomy complications","Respiratory",30,212628,9,90878,15,79702,51,60184
+"519.2","Respiratory complications","Respiratory",115,212569,52,90839,39,79708,539,59537
+"519.8","Other diseases of respiratory system, NEC","Respiratory",157,212440,64,90795,60,79618,53,60197
+"519.9","Symptoms involving respiratory system and other chest symptoms","Respiratory",33,212630,20,90869,18,79725,222,59920
+"521","Diseases of hard tissues of teeth","Digestive",78,211813,39,90526,32,79186,5,60265
+"521.1","Dental caries","Digestive",571,206574,234,88304,199,75666,111,60084
+"522.5","Periapical abscess","Digestive",187,211457,92,90410,55,78839,58,60161
+"523","Gingival and periodontal diseases","Digestive",109,211731,50,90468,48,79111,27,60224
+"523.1","Gingivitis","Digestive",927,204046,423,87159,333,74419,6,60263
+"523.31","Acute periodontitis","Digestive",827,205806,384,87903,239,75205,43,60157
+"525","Other diseases of the teeth and supporting structures","Digestive",441,209285,180,89362,114,77728,85,60062
+"525.1","Loss of teeth or edentulism","Digestive",77,212507,31,90810,20,79696,10,60261
+"526.41","Temporomandibular joint disorder, unspecified","Digestive",129,210998,60,90129,61,78646,17,60232
+"526.5","Inflammatory conditions of jaw","Digestive",75,211925,33,90559,20,79391,10,60263
+"527.2","Sialoadenitis","Digestive",94,212333,30,90767,25,79582,30,60199
+"527.7","Disturbance of salivary secretion","Digestive",44,212308,28,90725,27,79525,32,60216
+"528","Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue","Digestive",127,211965,57,90605,37,79365,75,60086
+"528.1","Stomatitis and mucositis","Digestive",39,212567,15,90853,11,79715,67,60123
+"528.11","Stomatitis and mucositis (ulcerative)","Digestive",98,211838,29,90570,22,79232,17,60226
+"528.12","Oral aphthae","Digestive",514,206658,248,88414,235,75458,20,60220
+"528.3","Cellulitis and abscess of oral soft tissues","Digestive",174,211368,73,90344,34,79073,15,60243
+"528.5","Diseases of lips","Digestive",12,212618,6,90859,6,79684,16,60242
+"528.7","Sialolithiasis","Digestive",39,212551,6,90859,5,79751,5,60269
+"529.1","Glossitis","Digestive",18,212508,8,90828,6,79643,7,60258
+"530","Diseases of esophagus","Digestive",41,212616,25,90862,16,79704,75,60132
+"530.1","Esophagitis, GERD and related diseases","Digestive",1030,209724,413,89635,254,77923,385,59497
+"530.11","GERD","Digestive",3986,203232,1699,86923,1360,75466,5590,47632
+"530.12","Ulcer of esophagus","Digestive",2572,199857,1064,85407,948,71453,111,60085
+"530.13","Barrett's esophagus","Digestive",56,212542,23,90839,19,79693,262,59683
+"530.14","Reflux esophagitis","Digestive",3528,201789,1613,86204,1356,73542,50,60192
+"530.2","Esophageal bleeding (varices/hemorrhage)","Digestive",299,212091,140,90614,68,79553,425,59336
+"530.3","Stricture and stenosis of esophagus","Digestive",37,212626,12,90878,8,79769,177,59951
+"530.5","Disorders of esophageal motility","Digestive",97,212429,46,90794,70,79568,143,59972
+"530.7","Gastroesophageal laceration-hemorrhage syndrome","Digestive",55,212604,18,90867,16,79751,84,60084
+"531.1","Hemorrhage from gastrointestinal ulcer","Digestive",2079,205640,872,87955,656,76086,266,59768
+"531.2","Gastric ulcer","Digestive",1767,205254,784,87717,611,75626,199,59876
+"531.3","Duodenal ulcer","Digestive",933,209240,437,89388,322,77709,130,60007
+"531.4","Peptic ulcer, site unspecified","Digestive",2910,201916,1244,86300,918,73389,382,59391
+"531.5","Gastrojejunal ulcer","Digestive",28,212652,11,90890,7,79744,31,60198
+"532","Dysphagia","Digestive",423,211404,184,90327,151,79151,1356,58094
+"535.1","Acute gastritis","Digestive",2049,204154,953,87204,895,74469,19,60236
+"535.2","Atrophic gastritis","Digestive",259,212075,131,90621,120,79446,56,60126
+"535.6","Duodenitis","Digestive",157,212384,69,90777,41,79672,166,59906
+"535.8","Other specified gastritis","Digestive",1053,210366,436,89928,292,78819,111,59980
+"535.9","Gastritis and duodenitis, NOS","Digestive",495,210213,211,89820,266,77773,480,59060
+"536.3","Gastroparesis","Digestive",19,212607,11,90866,10,79709,151,59784
+"536.8","Dyspepsia and other specified disorders of function of stomach","Digestive",533,208840,219,89307,288,76462,106,60007
+"537","Other disorders of stomach and duodenum","Digestive",323,211700,167,90421,133,79239,463,59331
+"537.1","Lesions of stomach and duodenum","Digestive",28,212652,11,90881,6,79763,92,60022
+"540.1","Appendicitis","Digestive",190,212412,75,90794,66,79658,22,60222
+"540.11","Acute appendicitis","Digestive",1641,210185,665,89906,506,78961,140,59971
+"550","Abdominal hernia","Digestive",68,212521,24,90835,15,79677,63,60140
+"550.1","Inguinal hernia","Digestive",1108,210293,500,89852,278,78709,111,59936
+"550.2","Diaphragmatic hernia","Digestive",365,212090,163,90611,97,79557,539,59054
+"550.3","Femoral hernia","Digestive",58,212614,23,90873,17,79748,9,60256
+"550.4","Umbilical hernia","Digestive",55,212601,29,90857,12,79734,133,59884
+"550.5","Ventral hernia","Digestive",53,212578,20,90856,20,79712,119,59956
+"550.6","Incisional hernia","Digestive",58,212558,22,90839,24,79694,108,59843
+"555.1","Regional enteritis","Digestive",60,212066,28,90598,30,79262,217,59674
+"555.2","Ulcerative colitis","Digestive",47,212579,24,90856,20,79701,164,59857
+"555.21","Ulcerative colitis (chronic)","Digestive",39,212601,18,90863,12,79716,57,60123
+"556","Ulceration of the lower GI tract","Digestive",58,212516,17,90825,18,79666,38,60198
+"556.1","Ulceration of intestine","Digestive",39,212645,14,90884,11,79762,34,60184
+"556.11","Angiodysplasia of intestine (without mention of hemorrhage)","Digestive",25,212679,8,90887,9,79758,54,60136
+"558","Noninfectious gastroenteritis","Digestive",2671,199896,1115,85588,1286,72224,493,58973
+"559","Ileostomy status","Digestive",37,212642,19,90870,8,79762,131,59895
+"560.1","Paralytic ileus","Digestive",576,211822,253,90543,183,79447,655,59004
+"560.2","Impaction of intestine","Digestive",62,212543,27,90832,24,79661,39,60194
+"560.3","Peritoneal or intestinal adhesions","Digestive",232,212282,94,90741,74,79602,142,59958
+"560.4","Other intestinal obstruction","Digestive",923,210629,411,89983,311,78795,650,58963
+"561","Symptoms involving digestive system","Digestive",86,212439,38,90779,52,79597,164,59895
+"562.1","Diverticulosis","Digestive",442,211633,182,90461,126,79318,674,58468
+"562.2","Diverticulitis","Digestive",485,211809,215,90533,121,79472,200,59673
+"564","Functional digestive disorders","Digestive",435,209526,186,89626,302,76848,49,60162
+"564.1","Irritable Bowel Syndrome","Digestive",786,205948,351,88014,426,74080,308,59483
+"565","Anal and rectal conditions","Digestive",450,209696,183,89651,173,78015,189,59716
+"565.1","Anal and rectal polyp","Digestive",73,212451,21,90811,21,79667,27,60200
+"567","Peritonitis and retroperitoneal infections","Digestive",846,211349,357,90345,201,79371,601,59163
+"568","Other disorders of peritoneum","Digestive",218,212366,99,90770,28,79722,179,59974
+"568.1","Peritoneal adhesions (postoperative) (postinfection)","Digestive",81,212540,37,90837,23,79730,242,59645
+"569","Other disorders of intestine","Digestive",3392,189910,1437,81133,1118,67186,269,59727
+"569.1","Toxic gastroenteritis and colitis","Digestive",54,212602,17,90870,17,79746,68,60183
+"569.2","Gastrointestinal complications","Digestive",375,211677,178,90403,161,79139,180,59752
+"571.5","Other chronic nonalcoholic liver disease","Digestive",1367,208671,653,89190,530,76937,531,59148
+"571.51","Cirrhosis of liver without mention of alcohol","Digestive",927,210573,405,89951,243,78919,589,58826
+"571.6","Primary biliary cirrhosis","Digestive",48,212544,23,90827,23,79670,28,60202
+"571.8","Liver abscess and sequelae of chronic liver disease","Digestive",1232,210829,573,90064,328,79173,584,59277
+"571.81","Portal hypertension","Digestive",91,212511,53,90801,29,79692,523,59188
+"572","Ascites (non malignant)","Digestive",755,211466,288,90396,196,79379,797,58740
+"573","Other disorders of liver","Digestive",387,211810,143,90548,130,79242,272,59717
+"573.2","Liver replaced by transplant","Digestive",101,212448,54,90797,39,79638,43,60090
+"573.3","Hepatomegaly","Digestive",46,212643,7,90894,10,79767,16,60249
+"573.4","Acute and subacute necrosis of liver","Digestive",336,212159,175,90632,105,79554,550,59551
+"573.5","Jaundice (not of newborn)","Digestive",1390,210319,588,89848,397,78896,293,59687
+"573.6","Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]","Digestive",40,212434,11,90789,17,79554,1329,58029
+"573.7","Abnormal results of function study of liver","Digestive",375,211896,180,90555,124,79371,104,60051
+"573.9","Abnormal serum enzyme levels","Digestive",186,212013,92,90613,58,79490,356,59585
+"574.1","Cholelithiasis","Digestive",1589,207570,738,88646,526,76985,391,59379
+"574.11","Cholelithiasis with acute cholecystitis","Digestive",1126,210752,459,90077,326,79023,178,59906
+"574.12","Cholelithiasis with other cholecystitis","Digestive",761,211440,368,90321,221,79282,138,59892
+"574.2","Calculus of bile duct","Digestive",764,211228,313,90284,217,79147,353,59517
+"574.3","Cholecystitis without cholelithiasis","Digestive",793,211234,350,90248,218,79196,284,59743
+"575.1","Cholangitis","Digestive",1146,210504,486,89954,316,78986,394,59513
+"575.2","Obstruction of bile duct","Digestive",230,212314,106,90737,66,79653,305,59481
+"575.6","Cholesterolosis of gallbladder","Digestive",222,212313,95,90758,93,79592,17,60248
+"575.7","Other disorders of gallbladder","Digestive",290,212154,131,90646,105,79495,114,60042
+"575.8","Other disorders of biliary tract","Digestive",524,211451,214,90339,131,79319,280,59598
+"577","Diseases of pancreas","Digestive",197,212169,70,90701,53,79583,235,59700
+"577.1","Acute pancreatitis","Digestive",922,210905,379,90142,265,79115,608,58941
+"577.2","Chronic pancreatitis","Digestive",112,212426,47,90776,25,79661,217,59667
+"577.3","Cyst and pseudocyst of pancreas","Digestive",82,212574,21,90862,27,79721,136,59944
+"578.1","Hematemesis","Digestive",156,212353,78,90746,47,79668,302,59726
+"578.2","Blood in stool","Digestive",589,210112,255,89811,237,78398,473,59249
+"578.8","Hemorrhage of rectum and anus","Digestive",1293,205202,576,87774,544,75082,248,59619
+"578.9","Hemorrhage of gastrointestinal tract","Digestive",2965,206161,1269,88131,866,76968,1104,58191
+"579","Other symptoms involving abdomen and pelvis","Digestive",84,212458,34,90808,18,79694,90,60084
+"579.2","Splenomegaly","Digestive",304,212068,148,90603,93,79499,146,60003
+"579.8","Nonspecific abnormal findings in stool contents","Digestive",66,212539,21,90847,17,79698,207,59798
+"580.11","Proliferative glomerulonephritis","Genitourinary",64,212474,21,90804,43,79468,11,60259
+"580.12","Non-proliferative glomerulonephritis","Genitourinary",82,212361,39,90743,41,79456,30,60200
+"580.13","Acute glomerulonephritis, NOS","Genitourinary",31,212647,13,90893,9,79747,67,60139
+"580.14","Chronic glomerulonephritis, NOS","Genitourinary",47,212491,26,90804,23,79644,29,60190
+"580.2","Nephrotic syndrome without mention of glomerulonephritis","Genitourinary",189,212189,100,90660,84,79477,34,60168
+"580.31","Nephritis and nephropathy in diseases classified elsewhere","Genitourinary",211,210913,97,90095,143,78488,267,59353
+"580.32","Nephritis and nephropathy with pathological lesion","Genitourinary",109,212372,58,90762,59,79549,129,59994
+"580.4","Renal sclerosis, NOS","Genitourinary",26,212657,12,90884,17,79742,44,60181
+"585.1","Acute renal failure","Genitourinary",3162,207646,1386,88742,983,77851,5889,48987
+"585.2","Renal failure NOS","Genitourinary",831,210231,342,89884,317,78216,108,60093
+"585.3","Chronic renal failure [CKD]","Genitourinary",2213,206860,998,88417,738,76916,1962,55370
+"585.31","Renal dialysis","Genitourinary",745,211016,346,90140,204,79170,466,59177
+"585.32","End stage renal disease","Genitourinary",1295,209626,550,89593,327,78616,652,58687
+"585.33","Chronic Kidney Disease, Stage III","Genitourinary",610,211142,236,90267,250,79006,1289,57502
+"585.34","Chronic Kidney Disease, Stage IV","Genitourinary",468,211026,178,90184,184,78849,414,59300
+"585.4","Chronic kidney disease, Stage I or II","Genitourinary",209,212091,102,90635,82,79439,182,59727
+"586","Other disorders of the kidney and ureters","Genitourinary",681,211405,267,90385,220,79250,442,59198
+"586.2","Cyst of kidney, acquired","Genitourinary",528,211377,203,90349,176,79103,90,60044
+"586.4","Stricture/obstruction of ureter","Genitourinary",171,212331,87,90712,58,79599,121,60011
+"587","Kidney replaced by transpant","Genitourinary",45,212584,16,90853,19,79688,153,59699
+"588","Disorders resulting from impaired renal function","Genitourinary",51,212568,18,90851,23,79688,44,60183
+"588.2","Secondary hyperparathyroidism (of renal origin)","Genitourinary",46,212592,25,90857,32,79702,94,59942
+"589","Abnormal results of function study of kidney","Genitourinary",13,212689,6,90893,7,79769,75,60114
+"590","Pyelonephritis","Genitourinary",1109,210558,485,89943,362,78896,401,59375
+"591","Urinary tract infection","Genitourinary",7271,192192,3133,82180,2470,69055,4699,51370
+"592.1","Cystitis","Genitourinary",71,212447,31,90760,36,79611,100,60054
+"592.11","Acute cystitis","Genitourinary",151,211311,59,90327,74,78998,53,60168
+"592.12","Chronic cystitis","Genitourinary",27,212617,20,90844,27,79682,9,60258
+"592.13","Chronic interstitial cystitis","Genitourinary",29,212606,10,90863,17,79694,14,60245
+"592.2","Urethritis and urethral syndrome","Genitourinary",41,212443,23,90790,27,79551,8,60246
+"593","Hematuria","Genitourinary",1418,205951,594,88117,588,75416,467,59201
+"593.1","Gross hematuria","Genitourinary",389,211438,146,90421,130,79153,310,59621
+"593.2","Microscopic hematuria","Genitourinary",141,212275,49,90746,61,79449,138,60012
+"594","Urinary calculus","Genitourinary",109,212236,40,90707,59,79451,239,59700
+"594.1","Calculus of kidney","Genitourinary",1336,207431,552,88699,406,77037,231,59569
+"594.2","Calculus of lower urinary tract","Genitourinary",221,212198,99,90681,69,79534,18,60213
+"594.3","Calculus of ureter","Genitourinary",1453,208573,630,89093,449,78019,94,59961
+"594.8","Renal colic","Genitourinary",974,207771,419,88799,351,77285,18,60206
+"595","Hydronephrosis","Genitourinary",1626,209286,685,89472,518,78443,368,59406
+"596","Other disorders of bladder","Genitourinary",110,212456,49,90781,47,79653,119,59960
+"596.1","Bladder neck obstruction","Genitourinary",40,212559,17,90834,13,79678,39,60178
+"596.5","Functional disorders of bladder","Genitourinary",916,208785,399,89243,363,77384,217,59781
+"597","Other disorders of urethra and urinary tract","Genitourinary",34,212606,15,90863,7,79748,25,60227
+"597.1","Urethral stricture (not specified as infectious)","Genitourinary",125,212443,54,90791,48,79658,34,60186
+"597.2","Urinary complications NEC","Genitourinary",23,212662,20,90876,13,79750,152,59911
+"599","Other symptoms/disorders or the urinary system","Genitourinary",70,212536,26,90826,20,79696,113,59996
+"599.1","Urinary obstruction","Genitourinary",58,212497,28,90814,17,79689,106,60089
+"599.2","Retention of urine","Genitourinary",1148,209837,461,89705,436,78259,1655,57001
+"599.3","Dysuria","Genitourinary",498,210280,203,89903,261,77988,215,59792
+"599.4","Urinary incontinence","Genitourinary",398,210080,169,89828,194,77804,729,58650
+"599.5","Frequency of urination and polyuria","Genitourinary",878,207993,372,88930,409,76326,240,59728
+"599.6","Oliguria and anuria","Genitourinary",70,212591,34,90852,32,79701,253,59855
+"599.8","Other symptoms involving urinary system","Genitourinary",98,212495,52,90802,41,79678,35,60203
+"599.9","Other abnormality of urination","Genitourinary",299,212098,126,90666,118,79473,98,60039
+"600","Hyperplasia of prostate","Genitourinary",3302,200115,1469,85544,1179,72360,1805,56640
+"601.11","Acute prostatitis","Genitourinary",49,212571,19,90851,18,79695,25,60227
+"601.12","Chronic prostatitis","Genitourinary",101,211837,48,90503,84,79071,12,60255
+"601.3","Orchitis and epididymitis","Genitourinary",125,212048,69,90621,64,79471,32,60183
+"601.4","Balanoposthitis","Genitourinary",73,212003,29,90588,27,79418,9,60261
+"601.8","Other inflammatory disorders of male genital organs","Genitourinary",72,212490,25,90815,16,79610,35,60194
+"602","Other disorders of prostate","Genitourinary",46,212632,28,90860,19,79598,8,60264
+"603.1","Hydrocele","Genitourinary",76,212509,30,90826,19,79696,31,60211
+"604","Disorders of penis","Genitourinary",15,212645,5,90882,11,79748,39,60196
+"604.1","Redundant prepuce and phimosis/BXO","Genitourinary",91,212272,34,90716,25,79608,30,60232
+"605","Erectile dysfunction [ED]","Genitourinary",90,211564,28,90396,50,78894,126,59970
+"608","Other disorders of male genital organs","Genitourinary",29,212556,12,90841,15,79718,107,60029
+"610.1","Cystic mastopathy","Genitourinary",40,212580,9,90852,14,79640,15,60261
+"611.3","Lump or mass in breast","Genitourinary",1229,199596,502,85344,434,74049,48,60190
+"612.2","Hypertrophy of breast (Gynecomastia)","Genitourinary",63,212424,27,90809,23,79631,14,60207
+"613.1","Inflammatory disease of breast","Genitourinary",49,212406,20,90785,18,79632,34,60171
+"613.5","Mastodynia","Genitourinary",73,212131,29,90673,23,79501,27,60221
+"614.1","Pelvic peritoneal adhesions, female (postoperative) (postinfection)","Genitourinary",600,211859,269,90559,153,79509,19,60169
+"614.3","Pelvic inflammatory disease (PID)","Genitourinary",160,212469,56,90811,38,79712,8,60256
+"614.31","Acute inflammatory pelvic disease","Genitourinary",97,212410,40,90792,25,79678,10,60256
+"614.32","Chronic inflammatory pelvic disease","Genitourinary",96,212577,36,90861,22,79740,23,60231
+"614.33","Pelvic inflammatory disease, NOS","Genitourinary",291,211986,115,90627,67,79575,22,60215
+"614.4","Inflammatory diseases of uterus, except cervix","Genitourinary",19,212594,10,90858,9,79697,20,60227
+"614.52","Vaginitis and vulvovaginitis","Genitourinary",866,205060,363,87657,289,75061,43,60155
+"614.53","Cyst or abscess of Bartholin's gland","Genitourinary",14,212547,8,90846,9,79701,5,60266
+"615","Endometriosis","Genitourinary",1557,208904,610,89369,408,78293,49,60097
+"618","Genital prolapse","Genitourinary",30,212663,11,90897,11,79748,6,60256
+"618.1","Prolapse of vaginal walls","Genitourinary",345,212073,162,90616,95,79518,25,60179
+"618.2","Uterine/Uterovaginal prolapse","Genitourinary",401,211974,174,90590,104,79463,18,60183
+"619.1","Noninflammatory disorders of ovary, fallopian tube, and broad ligament","Genitourinary",153,212513,71,90812,47,79713,35,60174
+"619.2","Disorders of uterus, NEC","Genitourinary",25,212650,10,90883,10,79760,13,60209
+"619.4","Noninflammatory disorders of vagina","Genitourinary",37,212658,16,90886,7,79755,61,60059
+"621","Endometrial hyperplasia","Genitourinary",286,211130,135,90236,83,78981,5,60264
+"622.1","Polyp of corpus uteri","Genitourinary",110,212280,47,90722,25,79583,12,60235
+"624.9","stress incontinence, female","Genitourinary",169,211856,74,90566,64,79206,41,60098
+"625","Pain and other symptoms associated with female genital organs","Genitourinary",29,212556,12,90846,11,79688,50,60059
+"626","Disorders of menstruation and other abnormal bleeding from female genital tract","Genitourinary",72,212505,34,90817,23,79689,35,60229
+"626.1","Irregular menstrual cycle/bleeding","Genitourinary",35,212454,18,90800,11,79672,20,60200
+"626.11","Absent or infrequent menstruation","Genitourinary",138,210691,56,89984,39,78569,22,60242
+"626.12","Excessive or frequent menstruation","Genitourinary",492,210878,220,90134,133,78988,50,60037
+"626.13","Irregular menstrual cycle","Genitourinary",112,211467,44,90364,43,78895,8,60265
+"626.14","Irregular menstrual bleeding","Genitourinary",252,210850,108,90130,86,78771,7,60269
+"626.2","Dysmenorrhea","Genitourinary",348,210971,158,90215,88,79010,15,60209
+"626.8","Infertility, female","Genitourinary",96,212133,52,90638,32,79470,12,60247
+"627.1","Postmenopausal bleeding","Genitourinary",97,211894,45,90540,44,79250,19,60188
+"627.2","Symptomatic menopause","Genitourinary",293,209461,129,89518,125,77015,6,60270
+"627.3","Postmenopausal atrophic vaginitis","Genitourinary",136,211519,64,90399,69,78718,12,60241
+"628","Ovarian cyst","Genitourinary",490,211571,210,90432,139,79261,99,59918
+"634","Miscarriage; stillbirth","Pregnancy complications",44,212426,13,90792,7,79683,14,60229
+"634.1","Missed abortion/Hydatidiform mole","Pregnancy complications",22,212532,9,90829,8,79703,6,60262
+"634.3","Ectopic pregnancy","Pregnancy complications",169,212329,76,90745,22,79682,8,60263
+"635.3","Placenta previa and abruptio placenta","Pregnancy complications",61,212484,20,90828,12,79705,21,60203
+"642","Hypertension complicating pregnancy, childbirth, and the puerperium","Pregnancy complications",28,212557,9,90839,24,79688,29,60138
+"646","Other complications of pregnancy NEC","Pregnancy complications",95,211679,30,90475,14,79347,24,60172
+"647","Infectious and parasitic complications affecting pregnancy","Pregnancy complications",35,212537,24,90832,8,79730,35,60171
+"647.1","Infections of genitourinary tract during pregnancy","Pregnancy complications",25,212656,10,90890,5,79764,19,60192
+"671","Venous/cerebrovascular complications embolism in pregnancy and the puerperium","Pregnancy complications",25,212649,7,90889,9,79759,20,60237
+"681","Superficial cellulitis and abscess","Dermatologic",978,208460,443,89082,352,76926,32,60192
+"681.1","Cellulitis and abscess of fingers/toes","Dermatologic",648,208336,297,89034,236,77136,99,59799
+"681.2","Cellulitis and abscess of face/neck","Dermatologic",1318,209625,592,89600,274,78613,103,59990
+"681.3","Cellulitis and abscess of arm/hand","Dermatologic",400,211428,193,90325,110,79156,289,59455
+"681.5","Cellulitis and abscess of leg, except foot","Dermatologic",1633,208717,752,89109,459,77931,632,58420
+"681.6","Cellulitis and abscess of foot, toe","Dermatologic",236,211703,115,90470,79,79243,144,59656
+"681.7","Cellulitis and abscess of trunk","Dermatologic",459,211368,185,90347,132,79170,325,59371
+"686","Other local infections of skin and subcutaneous tissue","Dermatologic",232,211758,92,90499,95,78855,130,60016
+"686.1","Carbuncle and furuncle","Dermatologic",354,209330,139,89448,177,77040,13,60247
+"686.5","Pyoderma","Dermatologic",127,211312,42,90323,78,78476,14,60253
+"687.1","Rash and other nonspecific skin eruption","Dermatologic",222,212048,93,90625,99,79436,574,59064
+"687.4","Disturbance of skin sensation","Dermatologic",174,212351,72,90748,42,79654,1018,58435
+"689","Disorder of skin and subcutaneous tissue NOS","Dermatologic",141,212001,44,90652,54,79366,138,59958
+"690.1","Seborrheic dermatitis","Dermatologic",204,210445,80,89951,133,77613,30,60200
+"694.2","Other dyschromia","Dermatologic",41,212354,14,90762,8,79568,9,60256
+"694.3","Vascular disorders of skin","Dermatologic",76,212329,24,90751,34,79458,5,60273
+"695.1","Toxic erythema","Dermatologic",54,212618,24,90874,13,79743,18,60246
+"695.22","Pemphigus and pemphigoid","Dermatologic",46,212600,18,90855,14,79733,17,60250
+"695.3","Rosacea","Dermatologic",32,212122,8,90642,21,79283,44,60183
+"695.42","Systemic lupus erythematosus","Dermatologic",207,211942,100,90594,85,79213,136,59930
+"695.7","Prurigo and Lichen","Dermatologic",375,205769,171,87923,232,73708,24,60220
+"695.8","Other specified erythematous conditions","Dermatologic",485,208914,214,89259,312,76391,54,60156
+"695.9","Unspecified erythematous condition","Dermatologic",305,210004,121,89805,193,77467,91,60091
+"696.41","Psoriasis vulgaris","Dermatologic",97,212091,42,90660,29,79424,219,59786
+"696.42","Psoriatic arthropathy","Dermatologic",28,212554,10,90858,12,79670,51,60159
+"698","Pruritus and related conditions","Dermatologic",89,211302,49,90307,42,78686,224,59674
+"700","Corns and callosities","Dermatologic",19,212519,7,90807,13,79584,6,60256
+"701","Other hypertrophic and atrophic conditions of skin","Dermatologic",36,212580,11,90846,19,79675,13,60240
+"701.1","Keratoderma, acquired","Dermatologic",42,211935,23,90554,48,78839,9,60242
+"701.2","Scar conditions and fibrosis of skin","Dermatologic",127,211913,62,90551,39,79360,16,60223
+"702.2","Seborrheic keratosis","Dermatologic",11,212642,9,90867,8,79731,24,60228
+"704","Diseases of hair and hair follicles","Dermatologic",27,212622,7,90881,9,79733,13,60264
+"704.1","Alopecia","Dermatologic",32,212177,6,90685,15,79441,25,60221
+"704.8","Other specified diseases of hair and hair follicles","Dermatologic",87,211383,28,90332,54,78541,37,60161
+"705","Disorders of sweat glands","Dermatologic",34,212323,22,90761,33,79337,24,60233
+"705.3","Hidradenitis","Dermatologic",29,212574,20,90858,13,79702,11,60230
+"705.8","Hyperhidrosis","Dermatologic",21,212665,7,90886,5,79757,162,60001
+"706.1","Acne","Dermatologic",181,209958,72,89795,95,78007,27,60223
+"706.2","Sebaceous cyst","Dermatologic",131,212237,59,90691,37,79488,29,60212
+"706.8","Other specified diseases of sebaceous glands","Dermatologic",67,212141,25,90694,45,79257,17,60250
+"707.1","Decubitus ulcer","Dermatologic",544,211536,224,90419,178,79161,744,58989
+"707.2","Chronic ulcer of leg or foot","Dermatologic",348,211857,148,90543,69,79449,488,58785
+"707.3","Chronic ulcer of unspecified site","Dermatologic",66,212511,41,90814,20,79682,85,60038
+"709.2","Sicca syndrome","Dermatologic",469,210575,174,90029,207,78203,61,60157
+"709.3","Systemic sclerosis","Dermatologic",29,212645,13,90875,14,79736,35,60191
+"709.4","Polymyositis","Dermatologic",15,212661,8,90885,13,79742,12,60246
+"709.5","Dermatomyositis","Dermatologic",21,212656,9,90883,8,79748,16,60256
+"709.7","Unspecified diffuse connective tissue disease","Dermatologic",847,209657,351,89640,378,77873,21,60241
+"710.11","Acute osteomyelitis","Musculoskeletal",90,212501,38,90824,28,79692,140,59884
+"710.12","Chronic osteomyelitis","Musculoskeletal",142,212414,49,90786,37,79654,134,59954
+"710.19","Unspecified osteomyelitis","Musculoskeletal",439,212017,193,90602,66,79585,266,59667
+"711","Arthropathy associated with infections","Musculoskeletal",37,212460,26,90801,22,79625,10,60264
+"711.1","Pyogenic arthritis","Musculoskeletal",83,212550,43,90831,29,79703,169,59943
+"712","Infective connective tissue disorders","Musculoskeletal",208,212297,114,90693,40,79658,117,60097
+"714","Rheumatoid arthritis and other inflammatory polyarthropathies","Musculoskeletal",95,212383,46,90759,32,79570,31,60209
+"714.1","Rheumatoid arthritis","Musculoskeletal",398,210323,154,89937,166,77971,386,59392
+"715","Other inflammatory spondylopathies","Musculoskeletal",80,211824,37,90548,41,79265,12,60258
+"715.1","Sacroiliitis NEC","Musculoskeletal",98,211603,52,90400,79,79048,12,60245
+"715.2","Ankylosing spondylitis","Musculoskeletal",182,211466,69,90372,76,79040,33,60214
+"716","Other arthropathies","Musculoskeletal",35,212629,14,90874,14,79747,14,60257
+"716.9","Arthropathy NOS","Musculoskeletal",84,211626,40,90464,33,79109,330,59191
+"717","Polymyalgia Rheumatica","Musculoskeletal",19,212628,8,90874,19,79717,155,59908
+"720","Spinal stenosis","Musculoskeletal",375,211814,149,90530,86,79293,466,59272
+"720.1","Spinal stenosis of lumbar region","Musculoskeletal",1279,210438,552,89933,244,78853,297,59513
+"721.1","Spondylosis without myelopathy","Musculoskeletal",2014,196562,841,83880,610,70104,562,58875
+"721.2","Spondylosis with myelopathy","Musculoskeletal",575,209755,251,89594,148,78112,121,60005
+"721.8","Other allied disorders of spine","Musculoskeletal",179,212054,78,90623,57,79463,20,60252
+"722.1","Displacement of intervertebral disc","Musculoskeletal",1231,204830,577,87420,336,75331,220,59637
+"722.6","Degeneration of intervertebral disc","Musculoskeletal",305,211734,143,90460,71,79330,173,59812
+"722.7","Intervertebral disc disorder with myelopathy","Musculoskeletal",1716,201533,752,86038,449,73911,85,60122
+"722.9","Other and unspecified disc disorder","Musculoskeletal",252,210889,101,90148,97,78648,124,60059
+"723","Other disorders of cervical region","Musculoskeletal",66,212511,21,90836,8,79716,11,60247
+"724.8","Other symptoms referable to back","Musculoskeletal",73,212493,41,90788,20,79667,47,60152
+"726","Peripheral enthesopathies and allied syndromes","Musculoskeletal",596,208358,247,89026,197,76919,58,60101
+"726.1","Enthesopathy","Musculoskeletal",465,209520,219,89512,245,77129,70,60068
+"726.2","Synoviopathy","Musculoskeletal",45,212086,11,90684,16,79330,12,60243
+"726.3","Bursitis","Musculoskeletal",44,212425,21,90795,21,79556,23,60183
+"726.4","Calcaneal spur; Exostosis NOS","Musculoskeletal",28,212616,13,90879,9,79734,12,60244
+"727","Other disorders of synovium, tendon, and bursa","Musculoskeletal",290,210085,137,89753,158,77699,7,60252
+"727.1","Synovitis and tenosynovitis","Musculoskeletal",1582,200834,671,85889,419,73200,55,60086
+"727.4","Ganglion and cyst of synovium, tendon, and bursa","Musculoskeletal",211,211699,93,90501,45,79301,16,60230
+"727.5","Rupture of synovium","Musculoskeletal",29,212644,14,90872,13,79726,28,60188
+"727.6","Rupture of tendon, nontraumatic","Musculoskeletal",302,212228,132,90702,58,79625,7,60256
+"728.7","Fasciitis","Musculoskeletal",1463,197650,657,84389,460,71412,15,60215
+"729","Other disorders of soft tissues","Musculoskeletal",41,212616,22,90868,7,79757,136,59996
+"729.3","Panniculitis","Musculoskeletal",17,212681,5,90895,7,79760,13,60231
+"733","Other disorders of bone and cartilage","Musculoskeletal",407,209439,177,89522,179,77834,199,59995
+"733.4","Aseptic necrosis of bone","Musculoskeletal",221,212178,93,90656,43,79601,52,60080
+"733.8","Malunion and nonunion of fracture","Musculoskeletal",251,211998,120,90617,43,79525,44,60172
+"735","Acquired foot deformities","Musculoskeletal",37,212628,6,90890,8,79754,124,59976
+"735.3","Hallux valgus (Bunion)","Musculoskeletal",91,212177,40,90656,25,79455,7,60243
+"736","Other acquired deformities of limbs","Musculoskeletal",99,212410,57,90765,23,79644,7,60263
+"736.1","Acquired deformities of forearm","Musculoskeletal",28,212652,22,90876,5,79760,8,60264
+"736.2","Acquired deformities of finger","Musculoskeletal",87,212440,30,90801,17,79649,5,60272
+"737.1","Kyphosis (acquired)","Musculoskeletal",55,212576,21,90844,15,79693,68,60137
+"737.3","Kyphoscoliosis and scoliosis","Musculoskeletal",325,210922,110,90206,130,78710,142,59951
+"738","Other acquired musculoskeletal deformity","Musculoskeletal",299,212157,122,90658,52,79612,22,60230
+"738.4","Acquired spondylolisthesis","Musculoskeletal",1373,208827,593,89176,298,78170,76,60108
+"739","Contracture of joint","Musculoskeletal",166,211772,74,90512,56,79268,28,60214
+"740.1","Osteoarthritis; localized","Musculoskeletal",1083,207794,457,88851,260,77584,340,59029
+"740.11","Osteoarthrosis, localized, primary","Musculoskeletal",1824,200529,761,85714,569,72093,172,60040
+"740.12","Osteoarthrosis, localized, secondary","Musculoskeletal",140,212378,64,90771,45,79593,7,60266
+"740.2","Osteoarthrosis, generalized","Musculoskeletal",868,206704,367,88388,242,76464,8,60244
+"740.3","Osteoarthrosis involving more than one site, but not specified as generalized","Musculoskeletal",30,212556,12,90840,18,79663,32,60181
+"740.9","Osteoarthrosis NOS","Musculoskeletal",509,207367,236,88655,235,75749,1347,56992
+"741","Symptoms and disorders of the joints","Musculoskeletal",190,211911,80,90589,53,79389,15,60253
+"741.2","Stiffness of joint","Musculoskeletal",184,212049,70,90632,37,79415,18,60235
+"741.4","Joint effusions","Musculoskeletal",168,211914,88,90535,86,79158,118,59994
+"741.5","Hemarthrosis","Musculoskeletal",75,212477,26,90829,16,79705,20,60221
+"742.2","Pathological, developmental or recurrent dislocation","Musculoskeletal",67,212512,32,90830,23,79711,13,60224
+"742.9","Other derangement of joint","Musculoskeletal",335,211809,123,90568,86,79479,18,60230
+"743.11","Osteoporosis NOS","Musculoskeletal",1057,207142,438,88522,319,76364,1238,57338
+"743.2","Pathologic fracture","Musculoskeletal",554,211419,189,90435,131,79251,218,59851
+"743.21","Pathologic fracture of vertebrae","Musculoskeletal",494,211649,204,90436,125,79342,247,59705
+"743.4","Stress fracture","Musculoskeletal",568,211806,234,90521,111,79560,9,60262
+"743.9","Osteopenia or other disorder of bone and cartilage","Musculoskeletal",34,212363,17,90760,14,79538,498,58909
+"745","Pain in joint","Musculoskeletal",581,207475,237,88650,284,76029,1473,56575
+"747","Cardiac and circulatory congenital anomalies","Congenital anomalies",10,212701,6,90899,5,79777,19,60247
+"747.1","Cardiac congenital anomalies","Congenital anomalies",320,212236,134,90711,90,79624,39,60205
+"747.11","Cardiac shunt/ heart septal defect","Congenital anomalies",82,212511,38,90810,12,79716,233,59836
+"747.13","Congenital anomalies of great vessels","Congenital anomalies",30,212645,12,90878,16,79743,19,60241
+"747.2","Congenital anomalies of peripheral vascular system","Congenital anomalies",285,212073,123,90656,52,79639,96,60132
+"749","Congenital anomalies of face and neck","Congenital anomalies",60,212556,23,90852,20,79724,13,60259
+"750.22","Congenital anomaly of gallbladder, bile ducts, liver, pancreas","Congenital anomalies",68,212580,38,90821,27,79726,43,60182
+"751.12","Congenital anomalies of male genital organs","Congenital anomalies",34,212583,14,90863,15,79730,13,60258
+"751.2","Congenital anomalies of urinary system","Congenital anomalies",23,212662,6,90890,9,79756,8,60260
+"751.21","Cystic kidney disease","Congenital anomalies",147,212308,57,90731,52,79564,111,60033
+"752.2","Other specified congenital anomalies of nervous system","Congenital anomalies",12,212684,7,90900,5,79771,41,60222
+"754.2","Spondylolisthesis, congenital","Congenital anomalies",327,209783,149,89641,90,78288,29,60202
+"756.5","Congenital osteodystrophies","Congenital anomalies",77,212159,36,90674,21,79561,22,60252
+"759","Other and unspecified congenital anomalies","Congenital anomalies",34,212362,16,90739,10,79585,27,60205
+"760","Back pain","Symptoms",1422,201740,630,86183,592,72761,2367,54765
+"761","Cervicalgia","Symptoms",30,212474,14,90804,12,79622,626,58945
+"763","Thoracic or lumbosacral neuritis or radiculitis, unspecified","Symptoms",1425,210534,591,89984,298,79105,142,59993
+"764","Sciatica","Symptoms",408,210038,158,89748,125,78288,192,59727
+"765","Cervical radiculitis","Symptoms",621,211622,270,90443,157,79431,97,60088
+"766","Neuralgia, neuritis, and radiculitis NOS","Symptoms",971,206537,400,88334,254,76621,45,60182
+"770","Myalgia and myositis unspecified","Symptoms",2330,198517,921,84883,846,71079,668,58802
+"771","Musculoskeletal symptoms referable to limbs","Symptoms",28,212297,9,90739,22,79510,738,58955
+"771.1","Swelling of limb","Symptoms",44,212573,21,90823,11,79700,492,59049
+"771.2","Cramp of limb","Symptoms",84,211638,28,90493,51,78651,32,60152
+"772","Symptoms of the muscles","Symptoms",119,210854,62,90055,53,78722,71,60109
+"772.1","Muscular wasting and disuse atrophy","Symptoms",66,212393,26,90789,26,79524,20,60252
+"772.2","Spasm of muscle","Symptoms",1345,200775,612,85773,459,73033,109,60009
+"772.3","Muscle weakness","Symptoms",48,212628,14,90885,12,79749,172,59886
+"772.4","Rhabdomyolysis","Symptoms",221,212429,70,90812,43,79719,366,59737
+"780","Hypothermia/Chills","Symptoms",102,212547,56,90823,54,79677,206,59898
+"781","Symptoms involving nervous and musculoskeletal systems","Symptoms",45,212529,26,90822,16,79704,64,60186
+"782.3","Edema","Symptoms",1197,208462,501,89189,568,77118,829,58523
+"783","Fever of unknown origin","Symptoms",14026,184817,6022,79155,6471,65240,3231,54980
+"785","Abdominal pain","Symptoms",11334,176958,4841,75660,3788,63127,4081,51519
+"788","Syncope and collapse","Symptoms",2382,207664,942,88861,690,77793,2215,56215
+"789","Nausea and vomiting","Symptoms",2178,205919,906,88092,1193,75744,2788,54234
+"790","Nonspecific findings on examination of blood","Symptoms",245,212327,94,90742,77,79606,131,60059
+"790.6","Other abnormal blood chemistry","Symptoms",1216,210014,511,89752,531,78131,294,59690
+"790.8","Elevated C-reactive protein (CRP)","Symptoms",57,212652,33,90867,43,79713,8,60265
+"791","Gangrene","Symptoms",146,212425,73,90777,39,79662,86,60070
+"796","Elevated prostate specific antigen [PSA]","Genitourinary",466,211565,213,90418,235,79116,43,60179
+"797","Shock","Symptoms",7084,202203,3058,86401,1421,77345,561,59555
+"797.1","Cardiogenic shock","Symptoms",382,212212,160,90701,68,79656,496,59638
+"798","Malaise and fatigue","Symptoms",3134,206556,1311,88253,999,76733,2301,56310
+"798.1","Chronic fatigue syndrome","Symptoms",56,212431,30,90790,52,79510,19,60233
+"800","Fracture of lower limb","Injuries & poisonings",374,212063,163,90615,53,79642,95,60143
+"800.1","Fracture of neck of femur","Injuries & poisonings",947,210587,381,90000,244,78940,352,59554
+"800.2","Fracture of unspecified part of femur","Injuries & poisonings",788,211080,301,90267,145,79310,272,59878
+"800.3","Fracture of tibia and fibula","Injuries & poisonings",874,210621,365,90028,120,79213,280,59858
+"800.4","Fracture of patella","Injuries & poisonings",315,211897,152,90545,59,79502,76,60152
+"801","Fracture of ankle and foot","Injuries & poisonings",691,210761,333,90054,119,79037,122,59984
+"801.1","Fracture of foot","Injuries & poisonings",229,211886,107,90544,46,79487,185,59882
+"802","Fracture of pelvis","Injuries & poisonings",313,212080,123,90663,51,79631,280,59868
+"803","Fracture of upper limb","Injuries & poisonings",346,212067,138,90647,50,79648,28,60213
+"803.1","Fracture of humerus","Injuries & poisonings",599,211346,267,90315,126,79267,230,59855
+"803.2","Fracture of radius and ulna","Injuries & poisonings",1364,209532,573,89531,234,78806,287,59783
+"803.21","Colles' fracture","Injuries & poisonings",56,212514,27,90826,17,79674,9,60259
+"803.3","Fracture of clavicle or scapula","Injuries & poisonings",774,211160,328,90240,116,79420,288,59902
+"804","Fracture of hand or wrist","Injuries & poisonings",1058,210290,458,89840,214,78989,155,59980
+"805","Fracture of vertebral column without mention of spinal cord injury","Injuries & poisonings",1174,209009,467,89340,242,78058,874,58974
+"807","Fracture of ribs","Injuries & poisonings",1297,210283,523,89919,277,78999,1073,58867
+"809","Fracture of unspecified bones","Injuries & poisonings",561,211639,233,90408,94,79432,180,59982
+"816","Cerebral laceration and contusion","Injuries & poisonings",303,211729,132,90477,76,79329,108,60141
+"817","Concussion","Injuries & poisonings",1641,207084,691,88545,417,77708,119,60067
+"818","Intracranial hemorrhage (injury)","Injuries & poisonings",931,211218,391,90282,191,79297,474,59739
+"818.1","Subdural hemorrhage (injury)","Injuries & poisonings",239,212081,86,90653,86,79436,380,59735
+"819","Skull and face fracture and other intercranial injury","Injuries & poisonings",1063,210830,455,90098,143,79332,960,58896
+"830","Dislocation","Injuries & poisonings",620,211221,289,90283,140,79287,177,59950
+"835","Internal derangement of knee","Injuries & poisonings",998,207779,406,88920,208,77747,18,60225
+"836","Traumatic arthropathy","Injuries & poisonings",25,212639,15,90864,7,79723,7,60256
+"840","Sprains and strains","Injuries & poisonings",912,207070,386,88562,291,76392,231,59487
+"840.2","Rotator cuff (capsule) sprain","Injuries & poisonings",34,212417,16,90780,14,79605,19,60207
+"840.3","Joint/ligament sprain","Injuries & poisonings",824,209454,379,89490,239,78055,72,60163
+"841","Sprains and strains of back and neck","Injuries & poisonings",247,209842,127,89652,96,77832,207,59617
+"842","Other sprains and strains","Injuries & poisonings",122,212016,40,90600,64,79088,42,60181
+"850","Hemorrhage or hematoma complicating a procedure","Injuries & poisonings",178,212363,75,90757,59,79603,742,58510
+"851","Complications of transplants and reattached limbs","Injuries & poisonings",430,211911,176,90573,124,79467,1009,58648
+"853","Complication of colostomy or enterostomy","Injuries & poisonings",14,212684,7,90896,6,79772,76,60075
+"854","Complications of cardiac/vascular device, implant, and graft","Injuries & poisonings",391,211813,195,90485,113,79455,701,58729
+"857","Mechanical complication of unspecified genitourinary device, implant, and graft","Injuries & poisonings",31,212645,14,90884,13,79729,108,59992
+"858","Complication of internal orthopedic device","Injuries & poisonings",289,212196,126,90705,70,79573,227,59816
+"859","Complication due to other implant and internal device","Injuries & poisonings",168,212466,62,90803,40,79675,276,59697
+"860","Bone marrow or stem cell transplant","Neoplasms",16,212681,5,90898,7,79768,46,60077
+"870","Open wounds of head; neck; and trunk","Injuries & poisonings",193,211401,71,90392,66,78761,121,60110
+"870.1","Open wound or laceration of eye or eyelid","Injuries & poisonings",156,212300,60,90717,8,79590,89,60163
+"870.3","Other open wound of head and face","Injuries & poisonings",974,209034,413,89315,223,78474,664,59109
+"870.5","Open wound of lip and mouth","Injuries & poisonings",278,212035,110,90631,37,79599,151,60012
+"870.6","Open wound of neck","Injuries & poisonings",42,212652,15,90883,5,79762,46,60224
+"870.8","Open wound of genital organs","Injuries & poisonings",40,212579,8,90857,7,79732,8,60265
+"871","Open wounds of extremities","Injuries & poisonings",882,209262,418,89454,170,78478,296,59668
+"871.1","Open wound of hand except finger(s)","Injuries & poisonings",285,211354,142,90332,66,79256,63,60111
+"871.2","Open wound of finger(s)","Injuries & poisonings",527,210375,239,89930,98,78745,71,60004
+"871.3","Open wound of foot except toe(s) alone","Injuries & poisonings",250,211647,98,90438,55,79294,19,60225
+"871.4","Open wound of toe(s)","Injuries & poisonings",87,212234,30,90719,19,79522,19,60229
+"872","Traumatic amputation","Injuries & poisonings",156,212465,68,90815,13,79743,18,60260
+"907","Injuries to the nervous system","Injuries & poisonings",304,211791,117,90484,43,79422,89,60132
+"912","Insect bite","Injuries & poisonings",40,211858,17,90534,32,78988,20,60198
+"913","Toxic effect of venom","Injuries & poisonings",82,212101,42,90617,25,79365,8,60262
+"916","Contusion","Injuries & poisonings",6130,189521,2546,81062,1675,70254,1220,57806
+"930","Allergic reaction to food","Injuries & poisonings",76,212529,27,90827,12,79717,60,60132
+"938","Dermatitis due to solar radiation","Dermatologic",17,212598,10,90850,5,79709,10,60258
+"939","Atopic/contact dermatitis due to other or unspecified","Dermatologic",924,201403,429,86124,438,70976,648,58745
+"941","Adverse reaction to serum or vaccine","Injuries & poisonings",96,212598,42,90857,55,79716,11,60254
+"942","Infusion and transfusion reaction","Injuries & poisonings",23,212683,6,90904,9,79776,65,60128
+"946","Anaphylactic shock NOS","Injuries & poisonings",22,212655,12,90879,5,79760,58,60103
+"947","Urticaria","Dermatologic",1082,205439,475,87908,444,75548,90,60038
+"949","Allergies, other","Injuries & poisonings",241,211286,122,90267,111,78887,149,59905
+"952","Spinal cord injury without evidence of spinal bone injury","Injuries & poisonings",206,212251,86,90698,37,79620,61,60193
+"958","Certain early complications of trauma or procedure","Injuries & poisonings",111,212546,44,90853,16,79739,182,60012
+"960","Poisoning by antibiotics","Injuries & poisonings",22,212686,8,90894,6,79771,300,59572
+"960.1","Adverse effects of antibacterials (not penicillins)","Injuries & poisonings",95,212570,30,90862,30,79722,305,59764
+"962.3","Hormones and synthetic substitutes causing adverse effects in therapeutic use","Injuries & poisonings",61,212502,33,90815,25,79695,205,59968
+"963.1","Antineoplastic and immunosuppressive drugs causing adverse effects","Injuries & poisonings",199,212091,82,90628,74,79525,695,58556
+"964.1","Anticoagulants causing adverse effects","Injuries & poisonings",46,212630,21,90876,16,79743,725,58851
+"965","Poisoning by analgesics, antipyretics, and antirheumatics","Injuries & poisonings",36,212664,20,90880,6,79769,272,59682
+"967","Adverse effects of sedatives or other central nervous system depressants and anesthetics","Injuries & poisonings",17,212668,13,90881,8,79759,358,59518
+"969","Poisoning by psychotropic agents","Injuries & poisonings",72,212545,38,90832,23,79734,542,59208
+"979","Adverse drug events and drug allergies","Injuries & poisonings",457,211659,210,90440,150,79280,960,58650
+"989","Toxic effect of other substances, chiefly nonmedicinal as to source","Injuries & poisonings",58,212612,33,90861,10,79765,18,60247
+"990","Effects radiation NOS","Injuries & poisonings",201,211432,74,90392,70,79038,1002,58288
+"994.1","Systemic inflammatory response syndrome (SIRS)","Injuries & poisonings",149,212486,53,90815,35,79719,170,60037
+"994.2","Sepsis","Injuries & poisonings",10629,196223,4699,83687,2774,74622,3143,55745
+"994.21","Septic shock","Injuries & poisonings",1497,210838,640,90111,385,79231,1461,58353
